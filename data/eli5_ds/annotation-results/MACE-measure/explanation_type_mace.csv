@@ -1,0 +1,2683 @@
+28222,2,(Y02) Contextual
+28222,3,(Y05) Contrastive,(Y03) Reasoning,(Y03) Reasoning
+28222,5,(Y03) Reasoning,(Y01) Case-based,(Y01) Case-based
+28222,14,(Y02) Contextual
+28222,18,(Y05) Contrastive,(Y03) Reasoning
+28222,20,(Y02) Contextual,(Y03) Reasoning,(Y03) Reasoning
+28222,21,(Y05) Contrastive
+28222,23,(Y03) Reasoning
+28222,24,(Y05) Contrastive
+28222,27,(Y02) Contextual
+28222,29,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28222,31,(Y02) Contextual
+28222,33,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28222,35,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28222,37,(Y03) Reasoning
+28223,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28223,4,(Y02) Contextual,(Y02) Contextual,(Y01) Case-based
+28223,6,(Y03) Reasoning,(Y03) Reasoning,(Y02) Contextual
+28223,12,(Y06) Other
+28223,14,(Y03) Reasoning,(Y03) Reasoning,(Y06) Other
+28223,15,(Y03) Reasoning,(Y03) Reasoning,(Y02) Contextual
+28223,16,(Y03) Reasoning,(Y03) Reasoning,(Y02) Contextual
+28223,18,(Y03) Reasoning,(Y03) Reasoning,(Y01) Case-based
+28223,20,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28223,24,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28223,26,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28223,28,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28223,29,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28223,30,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28223,34,(Y01) Case-based,(Y01) Case-based,(Y02) Contextual
+28223,36,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28223,39,(Y02) Contextual
+28224,4,(Y02) Contextual,(Y02) Contextual,(Y07) Analogy
+28224,6,(Y02) Contextual,(Y02) Contextual
+28224,8,(Y01) Case-based,(Y04) Causal,(Y01) Case-based
+28224,12,(Y01) Case-based,(Y03) Reasoning,(Y01) Case-based
+28224,14,(Y01) Case-based,(Y02) Contextual,(Y01) Case-based
+28224,15,(Y02) Contextual
+28224,16,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28224,18,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28224,22,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28224,24,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28224,26,(Y01) Case-based
+28224,36,(Y01) Case-based,(Y01) Case-based,(Y05) Contrastive
+28225,2,(Y04) Causal,(Y04) Causal,(Y01) Case-based
+28225,4,(Y03) Reasoning,(Y03) Reasoning,(Y03) Reasoning
+28225,10,(Y06) Other
+28225,12,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28225,13,(Y02) Contextual
+28225,14,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28225,16,(Y02) Contextual,(Y02) Contextual,(Y01) Case-based
+28225,18,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28225,20,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28225,22,(Y02) Contextual
+28225,24,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28225,26,(Y02) Contextual
+28225,27,(Y01) Case-based
+28225,28,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28225,32,(Y01) Case-based,(Y01) Case-based,(Y02) Contextual
+28225,34,(Y01) Case-based,(Y01) Case-based,(Y02) Contextual
+28225,37,(Y02) Contextual
+28226,2,(Y03) Reasoning,(Y03) Reasoning,(Y02) Contextual
+28226,6,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28226,10,(Y01) Case-based,(Y01) Case-based,(Y03) Reasoning
+28226,12,(Y01) Case-based,(Y01) Case-based,(Y02) Contextual
+28226,14,(Y01) Case-based
+28226,16,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28226,20,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28226,22,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28226,26,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28226,34,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28227,2,(Y01) Case-based,(Y02) Contextual,(Y02) Contextual
+28227,3,(Y02) Contextual,(Y02) Contextual
+28227,4,(Y01) Case-based
+28227,5,(Y03) Reasoning
+28227,6,(Y02) Contextual,(Y02) Contextual
+28227,9,(Y01) Case-based,(Y01) Case-based
+28227,10,(Y02) Contextual
+28227,11,(Y03) Reasoning
+28227,12,(Y02) Contextual
+28227,13,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28227,16,(Y01) Case-based
+28227,18,(Y01) Case-based,(Y07) Analogy,(Y07) Analogy
+28227,19,(Y01) Case-based
+28227,20,(Y03) Reasoning
+28227,21,(Y02) Contextual
+28227,23,(Y03) Reasoning,(Y03) Reasoning
+28227,26,(Y01) Case-based
+28227,27,(Y03) Reasoning
+28227,28,(Y02) Contextual
+28227,29,(Y01) Case-based,(Y01) Case-based
+28227,31,(Y03) Reasoning,(Y02) Contextual,(Y02) Contextual
+28228,2,(Y01) Case-based,(Y02) Contextual,(Y02) Contextual
+28228,4,(Y02) Contextual,(Y02) Contextual,(Y01) Case-based
+28228,6,(Y01) Case-based,(Y02) Contextual,(Y02) Contextual
+28228,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28228,10,(Y02) Contextual,(Y01) Case-based,(Y01) Case-based
+28228,12,(Y02) Contextual,(Y02) Contextual
+28228,14,(Y03) Reasoning,(Y02) Contextual,(Y02) Contextual
+28228,16,(Y02) Contextual,(Y02) Contextual
+28228,17,(Y03) Reasoning,(Y07) Analogy
+28228,18,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28228,19,(Y01) Case-based,(Y07) Analogy
+28228,20,(Y01) Case-based,(Y02) Contextual
+28228,22,(Y01) Case-based
+28228,23,(Y01) Case-based
+28228,24,(Y01) Case-based
+28228,25,(Y01) Case-based
+28228,26,(Y01) Case-based,(Y02) Contextual,(Y02) Contextual
+28228,27,(Y01) Case-based
+28228,28,(Y03) Reasoning
+28228,29,(Y02) Contextual
+28228,30,(Y01) Case-based,(Y01) Case-based
+28228,31,(Y01) Case-based,(Y02) Contextual
+28228,33,(Y02) Contextual,(Y02) Contextual
+28228,34,(Y01) Case-based,(Y02) Contextual,(Y02) Contextual
+28229,2,(Y03) Reasoning,(Y03) Reasoning,(Y02) Contextual
+28229,8,(Y06) Other
+28229,10,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28229,11,(Y02) Contextual
+28229,12,(Y02) Contextual
+28229,14,(Y02) Contextual,(Y02) Contextual,(Y01) Case-based
+28229,16,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28229,17,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28229,18,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28229,20,(Y02) Contextual
+28229,22,(Y01) Case-based,(Y01) Case-based,(Y02) Contextual
+28229,24,(Y02) Contextual
+28229,25,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28229,26,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28229,30,(Y01) Case-based,(Y01) Case-based,(Y02) Contextual
+28229,32,(Y02) Contextual
+28229,35,(Y02) Contextual
+28230,3,(Y03) Reasoning,(Y04) Causal,(Y04) Causal
+28230,6,(Y02) Contextual,(Y02) Contextual
+28230,7,(Y01) Case-based,(Y02) Contextual,(Y02) Contextual
+28230,8,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28230,9,(Y01) Case-based,(Y01) Case-based
+28230,10,(Y02) Contextual
+28230,11,(Y01) Case-based
+28230,13,(Y01) Case-based
+28230,17,(Y02) Contextual
+28230,18,(Y02) Contextual,(Y02) Contextual
+28230,25,(Y01) Case-based
+28230,30,(Y02) Contextual
+28230,32,(Y03) Reasoning,(Y02) Contextual,(Y02) Contextual
+28231,6,(Y02) Contextual
+28231,8,(Y02) Contextual,(Y02) Contextual,(Y06) Other
+28231,9,(Y02) Contextual
+28231,10,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28231,12,(Y02) Contextual,(Y02) Contextual,(Y01) Case-based
+28231,14,(Y01) Case-based,(Y01) Case-based
+28231,16,(Y05) Contrastive
+28231,18,(Y01) Case-based,(Y01) Case-based
+28231,20,(Y02) Contextual
+28231,22,(Y05) Contrastive,(Y02) Contextual
+28231,23,(Y01) Case-based
+28231,24,(Y01) Case-based,(Y02) Contextual,(Y01) Case-based
+28231,26,(Y01) Case-based
+28231,28,(Y01) Case-based,(Y01) Case-based,(Y02) Contextual
+28231,30,(Y02) Contextual
+28231,34,(Y01) Case-based
+28232,2,(Y02) Contextual,(Y07) Analogy,(Y04) Causal
+28232,4,(Y02) Contextual,(Y03) Reasoning,(Y02) Contextual
+28232,6,(Y02) Contextual,(Y03) Reasoning,(Y02) Contextual
+28232,12,(Y02) Contextual,(Y06) Other,(Y02) Contextual
+28232,13,(Y01) Case-based,(Y01) Case-based
+28232,14,(Y02) Contextual,(Y05) Contrastive,(Y02) Contextual
+28232,15,(Y01) Case-based,(Y01) Case-based
+28232,17,(Y01) Case-based,(Y07) Analogy
+28232,18,(Y01) Case-based,(Y03) Reasoning
+28232,20,(Y01) Case-based,(Y05) Contrastive,(Y01) Case-based
+28232,22,(Y05) Contrastive
+28232,23,(Y01) Case-based
+28232,24,(Y01) Case-based
+28232,25,(Y01) Case-based,(Y01) Case-based
+28232,26,(Y03) Reasoning,(Y03) Reasoning
+28232,28,(Y01) Case-based,(Y02) Contextual,(Y01) Case-based
+28232,29,(Y01) Case-based,(Y02) Contextual
+28232,32,(Y01) Case-based,(Y06) Other
+28232,34,(Y02) Contextual
+28233,2,(Y07) Analogy,(Y07) Analogy,(Y04) Causal
+28233,6,(Y07) Analogy,(Y07) Analogy,(Y03) Reasoning
+28233,8,(Y07) Analogy,(Y07) Analogy,(Y02) Contextual
+28233,9,(Y07) Analogy,(Y07) Analogy,(Y02) Contextual
+28233,10,(Y07) Analogy,(Y07) Analogy,(Y01) Case-based
+28233,12,(Y07) Analogy,(Y07) Analogy,(Y01) Case-based
+28233,16,(Y07) Analogy,(Y07) Analogy,(Y01) Case-based
+28233,18,(Y07) Analogy,(Y07) Analogy,(Y01) Case-based
+28233,20,(Y07) Analogy,(Y07) Analogy,(Y01) Case-based
+28233,30,(Y07) Analogy,(Y07) Analogy,(Y01) Case-based
+28234,2,(Y07) Analogy,(Y07) Analogy,(Y06) Other
+28234,4,(Y02) Contextual,(Y02) Contextual,(Y01) Case-based
+28234,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28234,8,(Y02) Contextual,(Y02) Contextual
+28234,10,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28234,12,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28234,13,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28234,14,(Y02) Contextual,(Y02) Contextual
+28234,15,(Y01) Case-based,(Y01) Case-based
+28234,16,(Y01) Case-based,(Y01) Case-based
+28234,18,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28234,19,(Y02) Contextual
+28234,22,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28234,25,(Y01) Case-based,(Y01) Case-based
+28234,26,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28234,27,(Y01) Case-based,(Y01) Case-based,(Y02) Contextual
+28234,30,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28234,32,(Y01) Case-based,(Y01) Case-based,(Y02) Contextual
+28235,13,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28235,15,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28235,17,(Y02) Contextual,(Y02) Contextual,(Y06) Other
+28235,19,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28235,21,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28235,25,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28235,27,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28235,29,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28236,4,(Y02) Contextual,(Y02) Contextual
+28236,6,(Y02) Contextual,(Y02) Contextual
+28236,8,(Y02) Contextual,(Y02) Contextual
+28236,10,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28236,12,(Y02) Contextual,(Y02) Contextual
+28236,14,(Y02) Contextual,(Y02) Contextual,(Y03) Reasoning
+28236,16,(Y02) Contextual,(Y02) Contextual
+28236,17,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28236,18,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28236,20,(Y02) Contextual,(Y02) Contextual
+28236,22,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28236,24,(Y07) Analogy,(Y07) Analogy
+28236,26,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28236,28,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28236,32,(Y07) Analogy,(Y07) Analogy,(Y02) Contextual
+28237,4,(Y02) Contextual
+28237,5,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28237,6,(Y07) Analogy,(Y07) Analogy,(Y01) Case-based
+28237,7,(Y01) Case-based
+28237,8,(Y04) Causal
+28237,9,(Y02) Contextual,(Y02) Contextual
+28237,15,(Y02) Contextual,(Y02) Contextual
+28237,16,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28237,17,(Y01) Case-based,(Y01) Case-based
+28237,25,(Y02) Contextual,(Y02) Contextual
+28237,28,(Y01) Case-based
+28237,30,(Y01) Case-based
+28238,4,(Y07) Analogy,(Y01) Case-based,(Y03) Reasoning
+28238,5,(Y05) Contrastive
+28238,6,(Y07) Analogy,(Y02) Contextual,(Y02) Contextual
+28238,8,(Y07) Analogy,(Y07) Analogy,(Y01) Case-based
+28238,10,(Y07) Analogy,(Y02) Contextual,(Y01) Case-based
+28238,14,(Y07) Analogy,(Y01) Case-based
+28238,16,(Y07) Analogy,(Y01) Case-based
+28238,18,(Y07) Analogy,(Y02) Contextual,(Y01) Case-based
+28238,20,(Y07) Analogy,(Y02) Contextual
+28238,28,(Y07) Analogy,(Y02) Contextual,(Y01) Case-based
+28238,30,(Y02) Contextual
+28239,3,(Y07) Analogy,(Y07) Analogy,(Y01) Case-based
+28239,4,(Y07) Analogy,(Y07) Analogy
+28239,5,(Y07) Analogy,(Y07) Analogy,(Y01) Case-based
+28239,6,(Y07) Analogy,(Y07) Analogy
+28239,7,(Y07) Analogy,(Y07) Analogy
+28239,11,(Y03) Reasoning,(Y03) Reasoning
+28239,12,(Y07) Analogy,(Y07) Analogy
+28239,17,(Y07) Analogy,(Y07) Analogy
+28239,18,(Y07) Analogy,(Y07) Analogy
+28239,20,(Y07) Analogy,(Y07) Analogy
+28239,23,(Y07) Analogy,(Y07) Analogy
+28239,25,(Y02) Contextual,(Y02) Contextual
+28239,27,(Y02) Contextual,(Y02) Contextual
+28240,2,(Y01) Case-based,(Y01) Case-based,(Y02) Contextual
+28240,3,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28240,4,(Y07) Analogy,(Y07) Analogy,(Y01) Case-based
+28240,5,(Y01) Case-based
+28240,6,(Y01) Case-based
+28240,7,(Y02) Contextual,(Y02) Contextual
+28240,13,(Y02) Contextual,(Y02) Contextual
+28240,14,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28240,15,(Y01) Case-based,(Y01) Case-based
+28240,23,(Y02) Contextual,(Y02) Contextual
+28240,28,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28241,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28241,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28241,5,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28241,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28241,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28241,10,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28241,12,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28241,14,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28241,15,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28241,16,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28241,18,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28241,19,(Y03) Reasoning,(Y03) Reasoning,(Y03) Reasoning
+28241,20,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28241,22,(Y02) Contextual,(Y02) Contextual
+28241,24,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28241,26,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28241,30,(Y03) Reasoning,(Y03) Reasoning,(Y02) Contextual
+28242,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28242,3,(Y07) Analogy,(Y07) Analogy
+28242,4,(Y02) Contextual,(Y02) Contextual
+28242,5,(Y07) Analogy,(Y07) Analogy
+28242,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28242,8,(Y02) Contextual,(Y02) Contextual
+28242,9,(Y02) Contextual,(Y02) Contextual
+28242,10,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28242,12,(Y02) Contextual,(Y02) Contextual
+28242,14,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28242,16,(Y02) Contextual,(Y02) Contextual
+28242,18,(Y07) Analogy,(Y07) Analogy
+28242,20,(Y07) Analogy,(Y07) Analogy
+28242,22,(Y07) Analogy,(Y07) Analogy,(Y01) Case-based
+28242,24,(Y07) Analogy,(Y07) Analogy
+28242,28,(Y07) Analogy,(Y07) Analogy
+28243,2,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28243,4,(Y03) Reasoning
+28243,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28243,8,(Y02) Contextual,(Y05) Contrastive,(Y02) Contextual
+28243,9,(Y03) Reasoning
+28243,10,(Y02) Contextual
+28243,11,(Y02) Contextual,(Y02) Contextual
+28243,12,(Y02) Contextual
+28243,14,(Y01) Case-based,(Y07) Analogy
+28243,15,(Y07) Analogy
+28243,16,(Y07) Analogy,(Y07) Analogy
+28243,18,(Y07) Analogy,(Y02) Contextual,(Y02) Contextual
+28243,20,(Y02) Contextual
+28243,21,(Y02) Contextual,(Y02) Contextual
+28243,22,(Y01) Case-based
+28243,23,(Y01) Case-based,(Y01) Case-based
+28243,26,(Y01) Case-based
+28243,28,(Y01) Case-based,(Y01) Case-based
+28244,2,(Y02) Contextual,(Y02) Contextual
+28244,3,(Y02) Contextual,(Y02) Contextual
+28244,7,(Y07) Analogy,(Y07) Analogy,(Y01) Case-based
+28244,8,(Y03) Reasoning,(Y03) Reasoning
+28244,13,(Y02) Contextual,(Y02) Contextual
+28244,15,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28244,17,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28244,24,(Y07) Analogy,(Y07) Analogy,(Y01) Case-based
+28244,28,(Y02) Contextual,(Y02) Contextual
+28245,2,(Y02) Contextual
+28245,6,(Y02) Contextual,(Y02) Contextual
+28245,8,(Y02) Contextual
+28245,9,(Y02) Contextual
+28245,11,(Y03) Reasoning,(Y01) Case-based
+28245,12,(Y02) Contextual
+28245,13,(Y02) Contextual,(Y02) Contextual
+28245,14,(Y07) Analogy
+28245,15,(Y02) Contextual
+28245,17,(Y07) Analogy,(Y01) Case-based
+28245,22,(Y02) Contextual
+28245,23,(Y01) Case-based,(Y07) Analogy,(Y01) Case-based
+28245,25,(Y07) Analogy,(Y01) Case-based
+28246,2,(Y02) Contextual,(Y02) Contextual
+28246,3,(Y02) Contextual,(Y02) Contextual,(Y01) Case-based
+28246,5,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28246,7,(Y02) Contextual,(Y02) Contextual
+28246,9,(Y02) Contextual,(Y02) Contextual
+28246,10,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28246,11,(Y07) Analogy,(Y07) Analogy
+28246,12,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28246,15,(Y01) Case-based
+28246,16,(Y07) Analogy,(Y07) Analogy
+28246,21,(Y07) Analogy,(Y07) Analogy,(Y01) Case-based
+28246,23,(Y02) Contextual,(Y02) Contextual
+28246,25,(Y02) Contextual,(Y02) Contextual
+28247,2,(Y07) Analogy,(Y07) Analogy,(Y01) Case-based
+28247,3,(Y01) Case-based
+28247,4,(Y02) Contextual
+28247,5,(Y02) Contextual,(Y02) Contextual
+28247,7,(Y02) Contextual,(Y02) Contextual
+28247,11,(Y02) Contextual,(Y02) Contextual
+28247,12,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28247,13,(Y01) Case-based,(Y01) Case-based
+28247,21,(Y02) Contextual,(Y02) Contextual
+28247,26,(Y02) Contextual
+28248,6,(Y02) Contextual,(Y02) Contextual
+28248,7,(Y02) Contextual,(Y02) Contextual
+28248,9,(Y01) Case-based
+28248,11,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28248,13,(Y02) Contextual,(Y02) Contextual
+28248,15,(Y07) Analogy,(Y07) Analogy,(Y01) Case-based
+28248,19,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28248,20,(Y02) Contextual,(Y02) Contextual
+28248,21,(Y07) Analogy,(Y07) Analogy,(Y01) Case-based
+28248,23,(Y02) Contextual,(Y01) Case-based
+28249,2,(Y02) Contextual,(Y02) Contextual
+28249,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28249,6,(Y02) Contextual,(Y02) Contextual
+28249,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28249,10,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28249,12,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28249,14,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28249,16,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28249,18,(Y07) Analogy,(Y07) Analogy
+28249,20,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28249,21,(Y01) Case-based
+28249,22,(Y07) Analogy,(Y07) Analogy
+28249,26,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28250,2,(Y02) Contextual,(Y02) Contextual,(Y01) Case-based
+28250,3,(Y07) Analogy,(Y02) Contextual
+28250,9,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28250,10,(Y02) Contextual,(Y02) Contextual
+28250,11,(Y01) Case-based,(Y01) Case-based
+28250,13,(Y02) Contextual
+28250,19,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28251,2,(Y03) Reasoning,(Y02) Contextual
+28251,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28251,6,(Y03) Reasoning,(Y03) Reasoning,(Y02) Contextual
+28251,7,(Y03) Reasoning,(Y03) Reasoning
+28251,8,(Y01) Case-based,(Y01) Case-based,(Y02) Contextual
+28251,9,(Y02) Contextual,(Y05) Contrastive
+28251,10,(Y01) Case-based,(Y01) Case-based
+28251,12,(Y03) Reasoning,(Y03) Reasoning
+28251,13,(Y03) Reasoning,(Y03) Reasoning
+28251,14,(Y03) Reasoning,(Y03) Reasoning
+28251,15,(Y03) Reasoning,(Y03) Reasoning
+28251,16,(Y03) Reasoning,(Y03) Reasoning,(Y03) Reasoning
+28251,17,(Y03) Reasoning,(Y03) Reasoning
+28251,18,(Y03) Reasoning,(Y03) Reasoning,(Y02) Contextual
+28251,19,(Y03) Reasoning,(Y03) Reasoning
+28251,21,(Y01) Case-based,(Y01) Case-based
+28251,23,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28251,26,(Y03) Reasoning,(Y03) Reasoning
+28252,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28252,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28252,6,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28252,8,(Y04) Causal,(Y04) Causal
+28252,10,(Y03) Reasoning,(Y03) Reasoning,(Y03) Reasoning
+28252,12,(Y05) Contrastive,(Y05) Contrastive,(Y05) Contrastive
+28252,14,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28252,16,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28252,18,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28252,20,(Y04) Causal,(Y04) Causal,(Y02) Contextual
+28252,22,(Y07) Analogy,(Y07) Analogy,(Y02) Contextual
+28253,5,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28253,7,(Y03) Reasoning,(Y03) Reasoning,(Y03) Reasoning
+28253,11,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28253,13,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28253,17,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28253,19,(Y07) Analogy,(Y07) Analogy,(Y06) Other
+28253,21,(Y07) Analogy,(Y07) Analogy,(Y01) Case-based
+28254,2,(Y03) Reasoning
+28254,4,(Y02) Contextual
+28254,8,(Y02) Contextual
+28255,2,(Y07) Analogy,(Y07) Analogy
+28255,7,(Y02) Contextual,(Y02) Contextual
+28255,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28255,9,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28255,17,(Y02) Contextual,(Y02) Contextual
+28255,22,(Y07) Analogy,(Y07) Analogy,(Y02) Contextual
+28256,2,(Y03) Reasoning,(Y03) Reasoning,(Y02) Contextual
+28256,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28256,5,(Y03) Reasoning,(Y03) Reasoning,(Y01) Case-based
+28256,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28256,7,(Y03) Reasoning,(Y03) Reasoning,(Y07) Analogy
+28256,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28256,10,(Y03) Reasoning,(Y03) Reasoning
+28256,11,(Y03) Reasoning,(Y03) Reasoning
+28256,12,(Y02) Contextual,(Y02) Contextual
+28256,13,(Y01) Case-based,(Y01) Case-based
+28256,14,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28256,16,(Y03) Reasoning,(Y03) Reasoning
+28256,17,(Y01) Case-based,(Y01) Case-based
+28256,18,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28256,19,(Y01) Case-based,(Y01) Case-based
+28256,22,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28256,24,(Y01) Case-based,(Y01) Case-based
+28257,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28257,5,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28257,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28257,8,(Y02) Contextual,(Y02) Contextual
+28257,10,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28257,12,(Y02) Contextual,(Y02) Contextual
+28257,14,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28257,16,(Y02) Contextual,(Y02) Contextual
+28257,18,(Y07) Analogy,(Y07) Analogy,(Y02) Contextual
+28257,20,(Y02) Contextual,(Y02) Contextual
+28257,22,(Y07) Analogy,(Y07) Analogy
+28257,24,(Y07) Analogy,(Y07) Analogy
+28258,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28258,3,(Y07) Analogy,(Y07) Analogy
+28258,4,(Y07) Analogy,(Y01) Case-based,(Y07) Analogy
+28258,6,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28258,8,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28258,9,(Y07) Analogy,(Y07) Analogy
+28258,10,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28258,12,(Y07) Analogy,(Y07) Analogy,(Y03) Reasoning
+28258,13,(Y07) Analogy,(Y07) Analogy
+28258,15,(Y01) Case-based,(Y01) Case-based
+28258,16,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28258,17,(Y01) Case-based
+28258,18,(Y02) Contextual,(Y02) Contextual
+28258,19,(Y02) Contextual,(Y02) Contextual
+28258,20,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28258,21,(Y07) Analogy
+28258,22,(Y07) Analogy,(Y07) Analogy
+28258,23,(Y02) Contextual,(Y03) Reasoning,(Y02) Contextual
+28259,2,(Y07) Analogy,(Y07) Analogy,(Y02) Contextual
+28259,4,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28259,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28259,10,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28259,12,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28259,14,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28259,16,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28259,18,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28259,20,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28260,2,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28260,4,(Y02) Contextual,(Y06) Other,(Y02) Contextual
+28260,5,(Y04) Causal
+28260,8,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28260,11,(Y01) Case-based,(Y06) Other,(Y01) Case-based
+28260,13,(Y02) Contextual,(Y02) Contextual
+28260,15,(Y01) Case-based,(Y02) Contextual,(Y01) Case-based
+28260,16,(Y02) Contextual,(Y06) Other,(Y02) Contextual
+28260,17,(Y01) Case-based,(Y01) Case-based
+28260,22,(Y02) Contextual,(Y02) Contextual
+28261,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28261,4,(Y01) Case-based,(Y01) Case-based
+28261,6,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28261,8,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28261,10,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28261,12,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28261,20,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28261,22,(Y02) Contextual
+28262,2,(Y02) Contextual,(Y02) Contextual,(Y06) Other
+28262,5,(Y01) Case-based,(Y01) Case-based
+28262,7,(Y02) Contextual,(Y02) Contextual
+28262,8,(Y02) Contextual,(Y02) Contextual
+28262,9,(Y02) Contextual,(Y02) Contextual
+28262,11,(Y03) Reasoning,(Y03) Reasoning,(Y03) Reasoning
+28262,14,(Y01) Case-based,(Y01) Case-based,(Y07) Analogy
+28262,18,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28262,22,(Y02) Contextual,(Y02) Contextual
+28263,5,(Y02) Contextual,(Y02) Contextual
+28263,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28263,7,(Y01) Case-based,(Y01) Case-based
+28263,15,(Y02) Contextual
+28263,20,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28264,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28264,3,(Y03) Reasoning,(Y03) Reasoning,(Y03) Reasoning
+28264,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28264,5,(Y01) Case-based,(Y01) Case-based
+28264,6,(Y02) Contextual,(Y02) Contextual
+28264,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28264,9,(Y01) Case-based,(Y01) Case-based
+28264,10,(Y02) Contextual,(Y02) Contextual
+28264,12,(Y03) Reasoning,(Y03) Reasoning
+28264,15,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28264,16,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28264,17,(Y01) Case-based,(Y01) Case-based
+28264,20,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28264,22,(Y01) Case-based,(Y01) Case-based
+28265,2,(Y02) Contextual,(Y02) Contextual,(Y06) Other
+28265,4,(Y02) Contextual,(Y02) Contextual
+28265,5,(Y01) Case-based,(Y01) Case-based,(Y02) Contextual
+28265,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28265,7,(Y07) Analogy,(Y07) Analogy,(Y06) Other
+28265,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28265,9,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28265,10,(Y02) Contextual,(Y07) Analogy,(Y02) Contextual
+28265,11,(Y07) Analogy
+28265,13,(Y01) Case-based,(Y01) Case-based
+28265,14,(Y01) Case-based,(Y01) Case-based
+28265,16,(Y02) Contextual,(Y02) Contextual
+28265,17,(Y01) Case-based,(Y01) Case-based
+28265,19,(Y01) Case-based,(Y01) Case-based
+28266,3,(Y02) Contextual,(Y02) Contextual,(Y06) Other
+28266,5,(Y02) Contextual,(Y02) Contextual
+28266,7,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28266,9,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28266,11,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28266,16,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28266,17,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28267,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28267,4,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28267,5,(Y07) Analogy,(Y01) Case-based,(Y07) Analogy
+28267,8,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28267,9,(Y07) Analogy,(Y07) Analogy
+28267,10,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28267,11,(Y03) Reasoning,(Y06) Other,(Y03) Reasoning
+28267,12,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28267,13,(Y07) Analogy,(Y07) Analogy
+28267,14,(Y02) Contextual
+28267,15,(Y02) Contextual,(Y02) Contextual
+28267,16,(Y02) Contextual,(Y06) Other,(Y02) Contextual
+28267,17,(Y02) Contextual,(Y02) Contextual
+28267,18,(Y02) Contextual
+28267,19,(Y01) Case-based,(Y07) Analogy,(Y01) Case-based
+28268,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28268,3,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28268,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28268,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28268,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28268,10,(Y02) Contextual,(Y02) Contextual,(Y04) Causal
+28268,11,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28268,12,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28268,14,(Y07) Analogy,(Y07) Analogy
+28268,16,(Y02) Contextual,(Y02) Contextual,(Y07) Analogy
+28268,18,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28268,22,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28269,20,(Y02) Contextual
+28270,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28270,4,(Y07) Analogy,(Y07) Analogy,(Y02) Contextual
+28270,6,(Y07) Analogy,(Y07) Analogy,(Y01) Case-based
+28270,7,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28270,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28270,10,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28270,11,(Y03) Reasoning,(Y03) Reasoning
+28270,13,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28270,14,(Y01) Case-based,(Y01) Case-based,(Y02) Contextual
+28270,15,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28270,16,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28270,17,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28270,18,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28270,19,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28270,20,(Y07) Analogy,(Y07) Analogy
+28270,21,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28271,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28271,6,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28271,8,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28271,10,(Y01) Case-based,(Y01) Case-based
+28271,18,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28272,6,(Y07) Analogy,(Y07) Analogy,(Y02) Contextual
+28272,9,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28272,13,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28272,14,(Y07) Analogy,(Y07) Analogy,(Y06) Other
+28272,15,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28273,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28273,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28273,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28273,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28273,10,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28273,12,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28273,14,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28273,16,(Y07) Analogy,(Y07) Analogy,(Y02) Contextual
+28273,18,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28274,2,(Y06) Other
+28275,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28275,4,(Y02) Contextual,(Y02) Contextual
+28275,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28275,8,(Y02) Contextual,(Y02) Contextual
+28275,10,(Y07) Analogy,(Y07) Analogy,(Y02) Contextual
+28275,12,(Y07) Analogy,(Y07) Analogy
+28275,14,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28275,16,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28275,20,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28276,2,(Y07) Analogy
+28276,3,(Y02) Contextual,(Y02) Contextual
+28276,4,(Y02) Contextual,(Y04) Causal,(Y02) Contextual
+28276,13,(Y02) Contextual,(Y06) Other
+28276,14,(Y02) Contextual
+28276,15,(Y06) Other
+28276,16,(Y03) Reasoning
+28276,18,(Y07) Analogy,(Y02) Contextual,(Y02) Contextual
+28277,3,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28277,5,(Y02) Contextual,(Y02) Contextual
+28277,7,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28277,9,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28277,12,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28277,16,(Y07) Analogy,(Y07) Analogy
+28277,20,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28278,2,(Y02) Contextual,(Y02) Contextual,(Y01) Case-based
+28278,3,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28278,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28278,5,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28278,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28278,7,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28278,8,(Y03) Reasoning,(Y03) Reasoning,(Y03) Reasoning
+28278,9,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28278,10,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28278,11,(Y01) Case-based,(Y01) Case-based
+28278,12,(Y02) Contextual,(Y02) Contextual
+28278,13,(Y01) Case-based,(Y01) Case-based
+28278,14,(Y02) Contextual,(Y02) Contextual
+28278,15,(Y01) Case-based,(Y01) Case-based
+28278,16,(Y02) Contextual,(Y02) Contextual
+28278,17,(Y02) Contextual,(Y02) Contextual
+28278,18,(Y03) Reasoning,(Y03) Reasoning
+28278,20,(Y03) Reasoning,(Y03) Reasoning
+28279,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28279,13,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28279,15,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28280,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28280,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28280,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28280,10,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28280,12,(Y02) Contextual,(Y02) Contextual
+28280,14,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28280,16,(Y07) Analogy,(Y07) Analogy,(Y02) Contextual
+28281,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28281,3,(Y02) Contextual,(Y02) Contextual
+28281,4,(Y07) Analogy,(Y01) Case-based,(Y01) Case-based
+28281,6,(Y02) Contextual
+28281,8,(Y02) Contextual
+28281,9,(Y02) Contextual,(Y02) Contextual
+28281,10,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28281,14,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28282,2,(Y02) Contextual
+28282,4,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28282,6,(Y02) Contextual
+28282,7,(Y02) Contextual
+28282,8,(Y02) Contextual
+28282,9,(Y02) Contextual,(Y01) Case-based
+28282,11,(Y02) Contextual,(Y02) Contextual
+28282,12,(Y07) Analogy,(Y07) Analogy
+28282,13,(Y01) Case-based,(Y01) Case-based
+28282,17,(Y02) Contextual,(Y02) Contextual
+28282,18,(Y03) Reasoning,(Y02) Contextual,(Y03) Reasoning
+28283,2,(Y07) Analogy,(Y07) Analogy,(Y01) Case-based
+28283,4,(Y07) Analogy,(Y07) Analogy,(Y01) Case-based
+28283,5,(Y07) Analogy,(Y07) Analogy,(Y01) Case-based
+28283,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28283,8,(Y07) Analogy,(Y07) Analogy,(Y02) Contextual
+28283,9,(Y03) Reasoning,(Y03) Reasoning,(Y03) Reasoning
+28283,11,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28283,12,(Y03) Reasoning,(Y03) Reasoning,(Y01) Case-based
+28283,13,(Y07) Analogy,(Y07) Analogy,(Y02) Contextual
+28283,14,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28283,15,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28283,16,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28283,17,(Y03) Reasoning,(Y03) Reasoning,(Y03) Reasoning
+28283,18,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28283,19,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28284,2,(Y01) Case-based,(Y01) Case-based,(Y02) Contextual
+28284,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28284,16,(Y02) Contextual,(Y02) Contextual
+28285,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28285,3,(Y02) Contextual,(Y02) Contextual
+28285,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28285,6,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28285,10,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28285,12,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28285,16,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28285,17,(Y01) Case-based,(Y01) Case-based,(Y02) Contextual
+28285,18,(Y03) Reasoning,(Y03) Reasoning,(Y03) Reasoning
+28286,2,(Y07) Analogy,(Y07) Analogy,(Y02) Contextual
+28286,11,(Y02) Contextual,(Y02) Contextual
+28286,16,(Y07) Analogy,(Y07) Analogy,(Y02) Contextual
+28287,2,(Y02) Contextual,(Y02) Contextual,(Y01) Case-based
+28287,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28287,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28287,8,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28287,12,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28287,14,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28287,16,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28287,18,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28288,2,(Y02) Contextual,(Y02) Contextual
+28288,4,(Y07) Analogy,(Y07) Analogy,(Y01) Case-based
+28288,5,(Y07) Analogy,(Y07) Analogy,(Y01) Case-based
+28288,6,(Y07) Analogy,(Y07) Analogy,(Y01) Case-based
+28288,7,(Y07) Analogy,(Y07) Analogy,(Y01) Case-based
+28288,8,(Y07) Analogy,(Y07) Analogy,(Y01) Case-based
+28288,12,(Y02) Contextual,(Y02) Contextual
+28288,13,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28288,14,(Y03) Reasoning,(Y03) Reasoning
+28288,15,(Y07) Analogy,(Y07) Analogy
+28288,16,(Y02) Contextual,(Y02) Contextual
+28289,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28289,3,(Y07) Analogy,(Y07) Analogy,(Y02) Contextual
+28289,5,(Y07) Analogy,(Y07) Analogy,(Y02) Contextual
+28289,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28289,7,(Y07) Analogy,(Y07) Analogy,(Y06) Other
+28289,9,(Y02) Contextual,(Y02) Contextual
+28289,12,(Y07) Analogy,(Y07) Analogy
+28289,13,(Y01) Case-based,(Y01) Case-based
+28289,14,(Y02) Contextual,(Y02) Contextual
+28289,16,(Y03) Reasoning,(Y03) Reasoning
+28289,18,(Y03) Reasoning,(Y03) Reasoning
+28290,2,(Y02) Contextual,(Y02) Contextual
+28290,5,(Y03) Reasoning,(Y03) Reasoning,(Y01) Case-based
+28290,6,(Y01) Case-based,(Y01) Case-based
+28290,8,(Y01) Case-based,(Y01) Case-based
+28290,10,(Y03) Reasoning,(Y03) Reasoning
+28290,11,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28290,13,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28291,3,(Y03) Reasoning,(Y03) Reasoning
+28291,5,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28291,7,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28291,10,(Y01) Case-based,(Y01) Case-based,(Y07) Analogy
+28291,14,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28292,2,(Y02) Contextual,(Y02) Contextual
+28292,4,(Y02) Contextual,(Y02) Contextual
+28292,8,(Y02) Contextual,(Y02) Contextual
+28292,10,(Y02) Contextual,(Y02) Contextual
+28292,11,(Y02) Contextual,(Y02) Contextual
+28292,12,(Y01) Case-based,(Y01) Case-based
+28292,13,(Y01) Case-based,(Y01) Case-based
+28292,16,(Y01) Case-based,(Y01) Case-based
+28292,17,(Y03) Reasoning,(Y03) Reasoning
+28292,18,(Y03) Reasoning,(Y03) Reasoning
+28294,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28294,3,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28294,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28294,6,(Y03) Reasoning,(Y03) Reasoning,(Y02) Contextual
+28294,7,(Y03) Reasoning,(Y03) Reasoning,(Y03) Reasoning
+28294,9,(Y01) Case-based,(Y01) Case-based,(Y06) Other
+28294,10,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28294,11,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28294,12,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28294,13,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28294,14,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28294,15,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28294,16,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28294,17,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28295,2,(Y03) Reasoning,(Y03) Reasoning,(Y02) Contextual
+28295,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28295,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28295,12,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28295,14,(Y02) Contextual,(Y02) Contextual,(Y06) Other
+28295,16,(Y06) Other
+28296,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28296,5,(Y07) Analogy,(Y07) Analogy,(Y01) Case-based
+28296,7,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28296,9,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28296,10,(Y02) Contextual,(Y02) Contextual,(Y06) Other
+28296,15,(Y02) Contextual,(Y02) Contextual
+28296,16,(Y02) Contextual,(Y02) Contextual
+28297,2,(Y02) Contextual,(Y02) Contextual
+28297,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28297,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28297,8,(Y02) Contextual,(Y01) Case-based
+28297,10,(Y02) Contextual,(Y02) Contextual
+28297,12,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28297,14,(Y03) Reasoning
+28297,17,(Y07) Analogy,(Y01) Case-based
+28298,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28298,5,(Y02) Contextual,(Y02) Contextual
+28298,10,(Y03) Reasoning,(Y03) Reasoning,(Y03) Reasoning
+28299,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28299,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28299,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28299,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28299,10,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28299,12,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28299,14,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28300,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28300,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28300,6,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28300,8,(Y03) Reasoning,(Y03) Reasoning,(Y03) Reasoning
+28300,10,(Y03) Reasoning,(Y03) Reasoning,(Y03) Reasoning
+28300,12,(Y03) Reasoning,(Y03) Reasoning,(Y03) Reasoning
+28300,14,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28300,15,(Y03) Reasoning,(Y03) Reasoning,(Y03) Reasoning
+28300,16,(Y03) Reasoning,(Y03) Reasoning,(Y03) Reasoning
+28301,2,(Y02) Contextual,(Y04) Causal
+28301,10,(Y07) Analogy,(Y02) Contextual
+28301,12,(Y02) Contextual,(Y01) Case-based
+28301,13,(Y02) Contextual
+28302,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28302,4,(Y07) Analogy,(Y07) Analogy,(Y03) Reasoning
+28302,6,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28302,8,(Y07) Analogy,(Y07) Analogy,(Y02) Contextual
+28302,10,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28302,12,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28302,14,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28303,2,(Y03) Reasoning,(Y02) Contextual,(Y06) Other
+28303,3,(Y02) Contextual,(Y02) Contextual
+28303,5,(Y03) Reasoning,(Y03) Reasoning,(Y03) Reasoning
+28303,7,(Y03) Reasoning
+28303,8,(Y03) Reasoning,(Y03) Reasoning,(Y07) Analogy
+28303,11,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28303,12,(Y01) Case-based,(Y01) Case-based
+28303,16,(Y03) Reasoning,(Y03) Reasoning,(Y02) Contextual
+28304,2,(Y02) Contextual
+28304,4,(Y06) Other
+28304,14,(Y02) Contextual,(Y02) Contextual
+28305,2,(Y01) Case-based,(Y01) Case-based
+28305,3,(Y02) Contextual,(Y02) Contextual
+28305,4,(Y03) Reasoning,(Y03) Reasoning
+28305,5,(Y01) Case-based,(Y01) Case-based
+28305,6,(Y07) Analogy,(Y07) Analogy
+28305,8,(Y02) Contextual,(Y02) Contextual
+28305,10,(Y01) Case-based,(Y01) Case-based
+28305,11,(Y01) Case-based,(Y01) Case-based
+28305,14,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28305,16,(Y02) Contextual,(Y02) Contextual
+28306,2,(Y02) Contextual,(Y02) Contextual
+28306,4,(Y02) Contextual,(Y02) Contextual
+28306,7,(Y01) Case-based,(Y01) Case-based
+28306,8,(Y02) Contextual,(Y02) Contextual
+28306,10,(Y07) Analogy,(Y07) Analogy
+28306,11,(Y01) Case-based,(Y01) Case-based
+28306,12,(Y02) Contextual,(Y02) Contextual
+28306,13,(Y02) Contextual,(Y02) Contextual
+28306,14,(Y03) Reasoning,(Y03) Reasoning
+28306,16,(Y03) Reasoning,(Y03) Reasoning
+28307,2,(Y02) Contextual
+28307,4,(Y01) Case-based
+28307,7,(Y01) Case-based,(Y02) Contextual
+28307,8,(Y01) Case-based,(Y01) Case-based
+28307,12,(Y02) Contextual,(Y02) Contextual
+28307,16,(Y01) Case-based
+28308,14,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28309,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28309,4,(Y02) Contextual,(Y02) Contextual
+28309,6,(Y03) Reasoning,(Y03) Reasoning,(Y02) Contextual
+28309,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28309,10,(Y02) Contextual,(Y02) Contextual
+28309,12,(Y02) Contextual,(Y02) Contextual
+28309,16,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28310,2,(Y03) Reasoning,(Y03) Reasoning,(Y01) Case-based
+28310,3,(Y03) Reasoning,(Y03) Reasoning,(Y01) Case-based
+28310,5,(Y03) Reasoning,(Y03) Reasoning
+28310,6,(Y01) Case-based,(Y01) Case-based
+28310,8,(Y03) Reasoning,(Y03) Reasoning,(Y03) Reasoning
+28310,9,(Y03) Reasoning,(Y03) Reasoning
+28310,10,(Y02) Contextual,(Y02) Contextual
+28310,11,(Y03) Reasoning,(Y03) Reasoning,(Y02) Contextual
+28310,12,(Y03) Reasoning,(Y03) Reasoning,(Y03) Reasoning
+28310,13,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28310,14,(Y03) Reasoning,(Y03) Reasoning
+28312,3,(Y03) Reasoning,(Y03) Reasoning,(Y01) Case-based
+28312,4,(Y03) Reasoning,(Y03) Reasoning,(Y01) Case-based
+28312,6,(Y02) Contextual,(Y02) Contextual
+28312,9,(Y02) Contextual,(Y02) Contextual,(Y01) Case-based
+28312,11,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28313,3,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28313,7,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28313,9,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28313,14,(Y02) Contextual,(Y02) Contextual
+28313,15,(Y02) Contextual,(Y02) Contextual
+28314,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28314,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28314,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28314,8,(Y04) Causal,(Y04) Causal,(Y06) Other
+28314,10,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28314,12,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28315,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28315,4,(Y03) Reasoning,(Y03) Reasoning,(Y02) Contextual
+28315,5,(Y03) Reasoning,(Y03) Reasoning,(Y02) Contextual
+28315,7,(Y01) Case-based,(Y01) Case-based
+28315,8,(Y03) Reasoning,(Y03) Reasoning
+28315,9,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28315,10,(Y02) Contextual,(Y02) Contextual
+28315,11,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28315,12,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28315,14,(Y07) Analogy,(Y07) Analogy
+28315,15,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28316,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28316,8,(Y02) Contextual,(Y02) Contextual
+28317,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28317,5,(Y02) Contextual,(Y02) Contextual
+28317,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28317,10,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28317,12,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28318,6,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28318,9,(Y02) Contextual,(Y02) Contextual,(Y01) Case-based
+28318,10,(Y01) Case-based,(Y01) Case-based
+28319,2,(Y02) Contextual,(Y02) Contextual
+28319,3,(Y01) Case-based,(Y01) Case-based
+28319,4,(Y07) Analogy,(Y07) Analogy
+28319,9,(Y01) Case-based,(Y01) Case-based
+28319,12,(Y02) Contextual,(Y02) Contextual
+28320,2,(Y01) Case-based,(Y01) Case-based,(Y02) Contextual
+28320,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28320,6,(Y01) Case-based,(Y02) Contextual,(Y06) Other
+28320,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28320,10,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28320,12,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28320,14,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28321,4,(Y02) Contextual,(Y02) Contextual
+28321,5,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28321,7,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28321,8,(Y01) Case-based,(Y01) Case-based,(Y07) Analogy
+28321,9,(Y03) Reasoning,(Y03) Reasoning,(Y06) Other
+28321,10,(Y03) Reasoning,(Y03) Reasoning,(Y02) Contextual
+28321,12,(Y01) Case-based,(Y01) Case-based
+28321,14,(Y03) Reasoning,(Y03) Reasoning,(Y01) Case-based
+28322,2,(Y02) Contextual,(Y02) Contextual
+28322,4,(Y02) Contextual,(Y02) Contextual
+28322,6,(Y02) Contextual,(Y02) Contextual
+28322,8,(Y01) Case-based,(Y01) Case-based,(Y07) Analogy
+28323,3,(Y03) Reasoning,(Y03) Reasoning,(Y01) Case-based
+28323,6,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28323,10,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28324,2,(Y07) Analogy,(Y07) Analogy,(Y03) Reasoning
+28324,4,(Y02) Contextual,(Y02) Contextual,(Y07) Analogy
+28324,6,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28324,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28324,10,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28324,12,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28326,2,(Y03) Reasoning,(Y03) Reasoning,(Y03) Reasoning
+28326,3,(Y01) Case-based,(Y01) Case-based
+28326,4,(Y02) Contextual,(Y02) Contextual,(Y05) Contrastive
+28326,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28326,9,(Y01) Case-based
+28326,10,(Y02) Contextual,(Y02) Contextual,(Y05) Contrastive
+28326,12,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28327,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28328,7,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28328,12,(Y03) Reasoning,(Y03) Reasoning,(Y02) Contextual
+28329,2,(Y02) Contextual,(Y02) Contextual
+28329,4,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28329,6,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28329,8,(Y07) Analogy,(Y07) Analogy,(Y02) Contextual
+28329,10,(Y07) Analogy,(Y07) Analogy
+28329,14,(Y02) Contextual,(Y02) Contextual
+28330,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28330,4,(Y03) Reasoning,(Y03) Reasoning,(Y03) Reasoning
+28330,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28330,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28330,10,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28330,12,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28331,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28331,3,(Y03) Reasoning,(Y03) Reasoning
+28331,4,(Y07) Analogy,(Y07) Analogy
+28331,9,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28331,11,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28331,12,(Y03) Reasoning,(Y03) Reasoning
+28332,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28332,4,(Y03) Reasoning,(Y03) Reasoning,(Y03) Reasoning
+28332,6,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28333,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28333,8,(Y03) Reasoning,(Y03) Reasoning
+28333,9,(Y01) Case-based,(Y01) Case-based
+28333,14,(Y02) Contextual,(Y02) Contextual
+28334,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28334,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28334,5,(Y01) Case-based,(Y01) Case-based
+28334,6,(Y02) Contextual,(Y02) Contextual
+28334,8,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28334,10,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28334,12,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28335,2,(Y07) Analogy,(Y07) Analogy
+28335,10,(Y07) Analogy,(Y07) Analogy,(Y01) Case-based
+28336,2,(Y07) Analogy,(Y07) Analogy,(Y02) Contextual
+28336,4,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28336,5,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28336,6,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28336,8,(Y07) Analogy,(Y07) Analogy,(Y01) Case-based
+28337,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28337,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28337,6,(Y02) Contextual,(Y02) Contextual
+28337,8,(Y02) Contextual,(Y02) Contextual
+28337,9,(Y02) Contextual,(Y02) Contextual
+28337,10,(Y07) Analogy,(Y07) Analogy,(Y02) Contextual
+28338,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28338,3,(Y02) Contextual,(Y02) Contextual
+28338,5,(Y01) Case-based,(Y01) Case-based
+28338,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28338,7,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28338,8,(Y02) Contextual,(Y02) Contextual,(Y01) Case-based
+28338,10,(Y07) Analogy,(Y07) Analogy,(Y01) Case-based
+28338,11,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28338,12,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28338,13,(Y07) Analogy,(Y07) Analogy,(Y01) Case-based
+28339,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28339,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28339,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28339,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28339,10,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28340,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28340,3,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28340,4,(Y07) Analogy,(Y07) Analogy
+28340,5,(Y07) Analogy,(Y07) Analogy
+28340,6,(Y07) Analogy,(Y07) Analogy
+28341,2,(Y07) Analogy,(Y07) Analogy,(Y01) Case-based
+28341,7,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28341,9,(Y03) Reasoning,(Y03) Reasoning,(Y03) Reasoning
+28341,10,(Y03) Reasoning,(Y03) Reasoning,(Y06) Other
+28341,12,(Y03) Reasoning,(Y03) Reasoning
+28342,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28342,8,(Y03) Reasoning,(Y03) Reasoning,(Y02) Contextual
+28342,10,(Y03) Reasoning,(Y03) Reasoning,(Y03) Reasoning
+28343,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28343,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28343,6,(Y03) Reasoning,(Y03) Reasoning,(Y02) Contextual
+28343,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28343,10,(Y03) Reasoning,(Y03) Reasoning,(Y02) Contextual
+28343,12,(Y03) Reasoning,(Y03) Reasoning,(Y02) Contextual
+28344,7,(Y01) Case-based,(Y01) Case-based
+28344,8,(Y01) Case-based,(Y01) Case-based
+28344,10,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28344,11,(Y03) Reasoning,(Y03) Reasoning,(Y07) Analogy
+28344,12,(Y07) Analogy,(Y07) Analogy,(Y02) Contextual
+28345,3,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28345,5,(Y03) Reasoning,(Y03) Reasoning,(Y01) Case-based
+28345,6,(Y07) Analogy,(Y07) Analogy,(Y03) Reasoning
+28345,7,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28345,11,(Y02) Contextual,(Y02) Contextual
+28345,12,(Y03) Reasoning,(Y03) Reasoning
+28345,13,(Y03) Reasoning,(Y03) Reasoning
+28346,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28346,6,(Y07) Analogy,(Y07) Analogy,(Y06) Other
+28347,2,(Y01) Case-based,(Y01) Case-based,(Y02) Contextual
+28347,4,(Y07) Analogy,(Y07) Analogy,(Y03) Reasoning
+28347,6,(Y07) Analogy,(Y07) Analogy,(Y02) Contextual
+28348,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28348,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28348,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28349,2,(Y03) Reasoning,(Y03) Reasoning
+28349,3,(Y02) Contextual
+28349,5,(Y02) Contextual
+28349,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28349,8,(Y02) Contextual,(Y02) Contextual
+28349,10,(Y03) Reasoning,(Y03) Reasoning,(Y02) Contextual
+28350,10,(Y03) Reasoning,(Y03) Reasoning
+28353,2,(Y02) Contextual,(Y02) Contextual
+28353,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28353,11,(Y02) Contextual,(Y02) Contextual
+28354,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28354,4,(Y02) Contextual,(Y02) Contextual,(Y01) Case-based
+28354,6,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28354,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28354,10,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28354,12,(Y02) Contextual,(Y02) Contextual,(Y01) Case-based
+28355,4,(Y07) Analogy,(Y07) Analogy,(Y01) Case-based
+28355,6,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28355,8,(Y03) Reasoning,(Y03) Reasoning,(Y02) Contextual
+28355,10,(Y07) Analogy,(Y07) Analogy,(Y02) Contextual
+28355,12,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28356,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28356,5,(Y02) Contextual
+28356,8,(Y02) Contextual,(Y02) Contextual
+28356,9,(Y01) Case-based
+28356,10,(Y02) Contextual,(Y02) Contextual
+28357,2,(Y07) Analogy,(Y07) Analogy,(Y01) Case-based
+28357,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28357,7,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28357,8,(Y07) Analogy,(Y07) Analogy,(Y02) Contextual
+28357,10,(Y07) Analogy,(Y07) Analogy,(Y02) Contextual
+28357,12,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28358,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28358,4,(Y02) Contextual,(Y02) Contextual
+28358,6,(Y02) Contextual,(Y02) Contextual
+28358,8,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28358,10,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28359,2,(Y07) Analogy,(Y07) Analogy
+28359,7,(Y01) Case-based,(Y01) Case-based
+28359,10,(Y02) Contextual,(Y02) Contextual
+28360,3,(Y01) Case-based,(Y01) Case-based,(Y02) Contextual
+28360,6,(Y07) Analogy
+28360,8,(Y03) Reasoning,(Y03) Reasoning
+28361,2,(Y07) Analogy,(Y07) Analogy,(Y02) Contextual
+28361,4,(Y07) Analogy,(Y07) Analogy
+28361,6,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28361,8,(Y03) Reasoning,(Y03) Reasoning,(Y03) Reasoning
+28361,12,(Y01) Case-based
+28362,2,(Y02) Contextual,(Y02) Contextual
+28362,4,(Y02) Contextual,(Y02) Contextual
+28362,6,(Y03) Reasoning,(Y03) Reasoning
+28362,8,(Y02) Contextual,(Y02) Contextual
+28362,10,(Y03) Reasoning,(Y03) Reasoning
+28363,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28363,4,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28364,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28364,4,(Y02) Contextual
+28364,7,(Y02) Contextual
+28364,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28364,10,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28364,12,(Y02) Contextual,(Y02) Contextual
+28365,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28365,4,(Y02) Contextual,(Y02) Contextual
+28365,6,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28365,9,(Y07) Analogy
+28366,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28366,6,(Y01) Case-based,(Y01) Case-based,(Y02) Contextual
+28366,10,(Y02) Contextual,(Y02) Contextual
+28367,2,(Y02) Contextual
+28367,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28367,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28367,8,(Y03) Reasoning,(Y06) Other,(Y03) Reasoning
+28367,10,(Y02) Contextual,(Y05) Contrastive,(Y02) Contextual
+28367,11,(Y03) Reasoning,(Y02) Contextual
+28367,12,(Y03) Reasoning
+28368,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28368,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28368,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28368,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28368,10,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28368,12,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28369,2,(Y01) Case-based,(Y01) Case-based
+28369,5,(Y02) Contextual
+28369,6,(Y03) Reasoning,(Y03) Reasoning
+28369,8,(Y01) Case-based,(Y01) Case-based
+28370,2,(Y04) Causal,(Y04) Causal
+28370,5,(Y01) Case-based,(Y01) Case-based
+28370,7,(Y01) Case-based,(Y01) Case-based
+28370,10,(Y03) Reasoning,(Y03) Reasoning
+28371,3,(Y02) Contextual,(Y02) Contextual
+28371,4,(Y03) Reasoning,(Y03) Reasoning
+28372,2,(Y01) Case-based,(Y01) Case-based,(Y02) Contextual
+28372,4,(Y04) Causal
+28372,6,(Y02) Contextual,(Y02) Contextual,(Y01) Case-based
+28372,8,(Y01) Case-based,(Y01) Case-based
+28372,10,(Y01) Case-based,(Y01) Case-based
+28373,3,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28373,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28373,5,(Y01) Case-based,(Y01) Case-based
+28373,9,(Y02) Contextual,(Y02) Contextual
+28373,10,(Y03) Reasoning,(Y03) Reasoning
+28373,11,(Y02) Contextual,(Y02) Contextual
+28374,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28374,4,(Y01) Case-based,(Y01) Case-based
+28374,6,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28374,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28374,10,(Y03) Reasoning,(Y03) Reasoning
+28375,2,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28375,4,(Y01) Case-based,(Y01) Case-based,(Y02) Contextual
+28375,6,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28375,8,(Y01) Case-based,(Y01) Case-based
+28375,10,(Y01) Case-based,(Y02) Contextual,(Y02) Contextual
+28376,2,(Y01) Case-based,(Y01) Case-based,(Y02) Contextual
+28376,4,(Y01) Case-based,(Y01) Case-based,(Y02) Contextual
+28376,6,(Y01) Case-based,(Y01) Case-based
+28376,8,(Y02) Contextual,(Y02) Contextual
+28376,10,(Y01) Case-based,(Y05) Contrastive,(Y02) Contextual
+28376,11,(Y01) Case-based,(Y01) Case-based,(Y02) Contextual
+28377,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28377,4,(Y03) Reasoning,(Y03) Reasoning,(Y01) Case-based
+28377,6,(Y02) Contextual,(Y02) Contextual
+28377,8,(Y02) Contextual,(Y02) Contextual
+28377,9,(Y02) Contextual,(Y02) Contextual
+28377,10,(Y02) Contextual,(Y02) Contextual,(Y01) Case-based
+28379,2,(Y02) Contextual
+28379,8,(Y02) Contextual
+28379,9,(Y02) Contextual,(Y02) Contextual
+28380,2,(Y01) Case-based,(Y01) Case-based,(Y02) Contextual
+28380,4,(Y02) Contextual,(Y02) Contextual
+28380,5,(Y07) Analogy
+28380,6,(Y02) Contextual,(Y02) Contextual
+28380,9,(Y01) Case-based,(Y01) Case-based
+28380,11,(Y02) Contextual
+28381,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28381,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28381,6,(Y02) Contextual,(Y02) Contextual
+28381,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28382,2,(Y02) Contextual
+28382,6,(Y01) Case-based,(Y01) Case-based
+28382,8,(Y01) Case-based,(Y01) Case-based
+28383,2,(Y02) Contextual,(Y02) Contextual,(Y03) Reasoning
+28383,6,(Y01) Case-based,(Y01) Case-based
+28384,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28384,4,(Y01) Case-based,(Y01) Case-based
+28384,8,(Y01) Case-based,(Y01) Case-based
+28385,2,(Y03) Reasoning,(Y03) Reasoning,(Y02) Contextual
+28385,4,(Y02) Contextual,(Y02) Contextual
+28385,6,(Y02) Contextual,(Y02) Contextual
+28385,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28386,2,(Y01) Case-based
+28386,4,(Y01) Case-based
+28386,5,(Y01) Case-based
+28386,6,(Y01) Case-based
+28386,8,(Y02) Contextual,(Y02) Contextual
+28386,9,(Y01) Case-based
+28387,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28387,5,(Y03) Reasoning,(Y03) Reasoning,(Y01) Case-based
+28387,6,(Y02) Contextual,(Y02) Contextual
+28387,7,(Y01) Case-based,(Y01) Case-based
+28387,8,(Y01) Case-based,(Y01) Case-based,(Y07) Analogy
+28387,9,(Y07) Analogy
+28387,10,(Y01) Case-based,(Y01) Case-based
+28387,11,(Y03) Reasoning
+28388,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28388,9,(Y02) Contextual,(Y02) Contextual
+28389,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28389,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28389,6,(Y01) Case-based,(Y01) Case-based,(Y02) Contextual
+28389,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28389,9,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28390,4,(Y01) Case-based,(Y01) Case-based
+28390,6,(Y01) Case-based,(Y01) Case-based
+28392,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28392,4,(Y01) Case-based,(Y01) Case-based
+28392,8,(Y02) Contextual,(Y02) Contextual
+28392,9,(Y02) Contextual
+28392,10,(Y01) Case-based,(Y01) Case-based,(Y02) Contextual
+28393,6,(Y01) Case-based
+28394,2,(Y02) Contextual
+28394,6,(Y02) Contextual
+28395,2,(Y03) Reasoning,(Y02) Contextual
+28395,4,(Y07) Analogy,(Y03) Reasoning,(Y01) Case-based
+28395,6,(Y02) Contextual,(Y03) Reasoning
+28396,3,(Y02) Contextual,(Y02) Contextual
+28396,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28397,2,(Y02) Contextual,(Y03) Reasoning,(Y02) Contextual
+28397,4,(Y02) Contextual
+28397,6,(Y02) Contextual,(Y03) Reasoning
+28397,8,(Y01) Case-based,(Y02) Contextual,(Y02) Contextual
+28398,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28398,8,(Y02) Contextual
+28398,10,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28399,3,(Y02) Contextual,(Y02) Contextual
+28399,4,(Y04) Causal,(Y06) Other
+28399,6,(Y03) Reasoning,(Y02) Contextual,(Y02) Contextual
+28399,8,(Y03) Reasoning
+28399,10,(Y03) Reasoning,(Y02) Contextual,(Y02) Contextual
+28400,2,(Y02) Contextual
+28400,4,(Y02) Contextual
+28400,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28400,8,(Y01) Case-based
+28401,3,(Y01) Case-based,(Y01) Case-based
+28401,5,(Y02) Contextual
+28401,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28401,7,(Y02) Contextual
+28401,9,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28402,6,(Y01) Case-based
+28403,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28403,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28403,10,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28405,2,(Y01) Case-based,(Y01) Case-based,(Y02) Contextual
+28405,4,(Y01) Case-based,(Y01) Case-based,(Y02) Contextual
+28405,6,(Y03) Reasoning,(Y03) Reasoning,(Y02) Contextual
+28405,8,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28405,10,(Y02) Contextual
+28406,2,(Y02) Contextual,(Y02) Contextual,(Y01) Case-based
+28406,4,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28406,6,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28406,7,(Y01) Case-based,(Y01) Case-based,(Y06) Other
+28406,8,(Y01) Case-based,(Y01) Case-based,(Y06) Other
+28407,2,(Y02) Contextual,(Y02) Contextual
+28407,3,(Y01) Case-based,(Y01) Case-based
+28407,6,(Y03) Reasoning,(Y03) Reasoning
+28407,8,(Y02) Contextual,(Y02) Contextual
+28408,2,(Y02) Contextual,(Y02) Contextual,(Y01) Case-based
+28408,6,(Y03) Reasoning,(Y03) Reasoning,(Y02) Contextual
+28408,8,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28408,9,(Y03) Reasoning,(Y03) Reasoning
+28409,4,(Y03) Reasoning,(Y03) Reasoning
+28409,6,(Y02) Contextual,(Y02) Contextual,(Y03) Reasoning
+28409,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28409,10,(Y01) Case-based,(Y01) Case-based,(Y02) Contextual
+28410,2,(Y02) Contextual,(Y07) Analogy,(Y02) Contextual
+28410,4,(Y01) Case-based,(Y01) Case-based,(Y02) Contextual
+28411,2,(Y02) Contextual
+28411,3,(Y01) Case-based
+28411,4,(Y02) Contextual
+28411,6,(Y03) Reasoning
+28411,8,(Y02) Contextual,(Y02) Contextual
+28412,5,(Y01) Case-based
+28412,9,(Y02) Contextual
+28413,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28413,4,(Y01) Case-based,(Y07) Analogy,(Y07) Analogy
+28413,6,(Y01) Case-based,(Y02) Contextual,(Y02) Contextual
+28413,8,(Y02) Contextual
+28413,10,(Y02) Contextual
+28414,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28414,6,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28414,7,(Y02) Contextual,(Y06) Other,(Y06) Other
+28414,8,(Y01) Case-based,(Y06) Other,(Y06) Other
+28414,10,(Y01) Case-based,(Y01) Case-based
+28415,2,(Y02) Contextual
+28415,3,(Y02) Contextual
+28415,5,(Y01) Case-based,(Y01) Case-based
+28415,6,(Y01) Case-based
+28415,8,(Y01) Case-based,(Y03) Reasoning
+28415,10,(Y03) Reasoning
+28416,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28416,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28416,6,(Y01) Case-based,(Y02) Contextual,(Y02) Contextual
+28416,8,(Y01) Case-based,(Y02) Contextual,(Y02) Contextual
+28417,2,(Y02) Contextual,(Y02) Contextual
+28417,5,(Y01) Case-based,(Y07) Analogy,(Y01) Case-based
+28417,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28417,8,(Y02) Contextual,(Y02) Contextual
+28417,10,(Y02) Contextual,(Y02) Contextual
+28418,2,(Y01) Case-based,(Y01) Case-based
+28418,3,(Y01) Case-based
+28418,4,(Y01) Case-based,(Y03) Reasoning
+28418,5,(Y01) Case-based
+28418,6,(Y03) Reasoning
+28418,7,(Y01) Case-based
+28418,8,(Y01) Case-based
+28418,9,(Y01) Case-based
+28418,10,(Y02) Contextual
+28419,2,(Y02) Contextual,(Y02) Contextual,(Y01) Case-based
+28419,4,(Y01) Case-based,(Y02) Contextual,(Y01) Case-based
+28419,5,(Y01) Case-based
+28419,6,(Y02) Contextual,(Y02) Contextual
+28419,8,(Y02) Contextual,(Y02) Contextual
+28419,9,(Y01) Case-based
+28419,10,(Y01) Case-based,(Y01) Case-based,(Y02) Contextual
+28420,2,(Y03) Reasoning,(Y02) Contextual,(Y03) Reasoning
+28420,4,(Y02) Contextual,(Y02) Contextual
+28421,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28421,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28421,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28421,8,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28421,9,(Y01) Case-based
+28421,10,(Y02) Contextual
+28422,2,(Y02) Contextual,(Y06) Other,(Y02) Contextual
+28422,3,(Y07) Analogy
+28422,4,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28422,6,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28422,10,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28423,7,(Y02) Contextual
+28424,2,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28424,4,(Y07) Analogy,(Y01) Case-based,(Y07) Analogy
+28424,5,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28424,7,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28424,8,(Y03) Reasoning,(Y01) Case-based,(Y03) Reasoning
+28424,9,(Y07) Analogy,(Y07) Analogy
+28424,10,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28425,6,(Y03) Reasoning,(Y03) Reasoning
+28427,3,(Y02) Contextual
+28427,4,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28427,6,(Y02) Contextual
+28427,7,(Y02) Contextual,(Y06) Other
+28428,3,(Y02) Contextual
+28428,8,(Y07) Analogy
+28429,2,(Y02) Contextual,(Y02) Contextual
+28429,4,(Y02) Contextual,(Y02) Contextual
+28429,6,(Y02) Contextual,(Y02) Contextual
+28429,8,(Y01) Case-based
+28430,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28430,8,(Y02) Contextual
+28430,10,(Y02) Contextual,(Y02) Contextual
+28431,4,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28431,6,(Y02) Contextual,(Y02) Contextual
+28431,8,(Y02) Contextual,(Y02) Contextual
+28432,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28432,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28432,6,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28432,8,(Y02) Contextual,(Y02) Contextual
+28433,3,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28433,4,(Y03) Reasoning,(Y01) Case-based,(Y07) Analogy
+28433,5,(Y02) Contextual,(Y02) Contextual
+28433,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28433,7,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28433,9,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28434,4,(Y03) Reasoning,(Y01) Case-based
+28434,6,(Y02) Contextual,(Y02) Contextual
+28434,7,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28435,4,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28435,6,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28435,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28435,10,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28436,8,(Y02) Contextual,(Y02) Contextual
+28437,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28437,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28437,6,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28437,7,(Y02) Contextual
+28437,8,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28437,10,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28438,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28438,4,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28438,6,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28438,7,(Y03) Reasoning,(Y06) Other
+28439,2,(Y03) Reasoning,(Y03) Reasoning
+28439,3,(Y01) Case-based,(Y01) Case-based
+28439,4,(Y07) Analogy,(Y07) Analogy
+28439,5,(Y01) Case-based,(Y01) Case-based
+28439,6,(Y03) Reasoning,(Y03) Reasoning
+28439,7,(Y02) Contextual,(Y02) Contextual
+28439,8,(Y03) Reasoning,(Y03) Reasoning
+28440,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28440,5,(Y02) Contextual,(Y02) Contextual
+28440,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28440,8,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28440,9,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28441,4,(Y03) Reasoning,(Y01) Case-based,(Y03) Reasoning
+28441,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28441,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28441,10,(Y01) Case-based,(Y07) Analogy,(Y01) Case-based
+28442,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28442,4,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28443,3,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28443,4,(Y07) Analogy
+28443,6,(Y03) Reasoning,(Y03) Reasoning,(Y03) Reasoning
+28443,8,(Y07) Analogy,(Y07) Analogy
+28443,10,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28444,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28444,5,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28444,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28444,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28444,10,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28445,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28445,4,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28445,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28445,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28446,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28446,6,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28446,7,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28446,8,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28446,10,(Y02) Contextual,(Y02) Contextual
+28447,2,(Y02) Contextual,(Y02) Contextual
+28447,3,(Y01) Case-based,(Y01) Case-based
+28447,4,(Y01) Case-based,(Y01) Case-based
+28447,6,(Y02) Contextual,(Y02) Contextual
+28447,8,(Y02) Contextual,(Y02) Contextual
+28447,10,(Y02) Contextual,(Y02) Contextual
+28448,2,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28448,4,(Y02) Contextual,(Y06) Other,(Y02) Contextual
+28448,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28448,8,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28448,10,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28449,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28449,5,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28449,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28449,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28449,9,(Y02) Contextual,(Y02) Contextual
+28450,3,(Y01) Case-based,(Y01) Case-based
+28450,4,(Y01) Case-based,(Y01) Case-based
+28450,5,(Y01) Case-based,(Y01) Case-based
+28450,7,(Y01) Case-based,(Y01) Case-based
+28450,8,(Y01) Case-based,(Y01) Case-based
+28451,2,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28451,4,(Y07) Analogy,(Y01) Case-based,(Y07) Analogy
+28451,5,(Y07) Analogy,(Y02) Contextual
+28451,6,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28451,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28451,9,(Y07) Analogy
+28451,10,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28452,2,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28452,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28452,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28453,2,(Y01) Case-based,(Y02) Contextual,(Y01) Case-based
+28453,4,(Y01) Case-based,(Y02) Contextual,(Y01) Case-based
+28453,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28453,8,(Y01) Case-based,(Y02) Contextual,(Y01) Case-based
+28453,9,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28454,2,(Y07) Analogy,(Y07) Analogy
+28454,4,(Y07) Analogy,(Y07) Analogy
+28454,6,(Y07) Analogy,(Y07) Analogy
+28455,2,(Y01) Case-based
+28455,3,(Y02) Contextual,(Y02) Contextual
+28455,4,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28455,6,(Y02) Contextual,(Y02) Contextual
+28455,8,(Y02) Contextual,(Y02) Contextual
+28456,2,(Y02) Contextual,(Y02) Contextual
+28456,4,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28456,8,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28457,2,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28457,4,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28457,6,(Y02) Contextual,(Y02) Contextual
+28458,2,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28458,4,(Y01) Case-based,(Y02) Contextual,(Y01) Case-based
+28458,6,(Y07) Analogy,(Y01) Case-based,(Y07) Analogy
+28458,7,(Y01) Case-based
+28458,8,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28459,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28459,3,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28459,7,(Y02) Contextual,(Y02) Contextual
+28460,2,(Y01) Case-based,(Y03) Reasoning,(Y01) Case-based
+28460,3,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28460,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28460,5,(Y02) Contextual
+28461,2,(Y03) Reasoning,(Y01) Case-based,(Y03) Reasoning
+28462,2,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28462,7,(Y02) Contextual,(Y02) Contextual
+28462,9,(Y02) Contextual,(Y02) Contextual
+28463,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28464,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28464,4,(Y02) Contextual,(Y02) Contextual
+28464,6,(Y02) Contextual,(Y02) Contextual
+28464,8,(Y01) Case-based,(Y02) Contextual,(Y01) Case-based
+28465,2,(Y02) Contextual,(Y02) Contextual
+28465,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28465,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28465,7,(Y01) Case-based,(Y01) Case-based
+28465,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28466,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28466,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28467,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28467,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28467,5,(Y02) Contextual,(Y02) Contextual
+28467,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28468,2,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28468,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28468,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28468,8,(Y03) Reasoning,(Y03) Reasoning,(Y03) Reasoning
+28469,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28469,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28470,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28470,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28470,6,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28470,7,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28470,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28471,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28471,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28471,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28472,3,(Y01) Case-based
+28472,5,(Y01) Case-based,(Y02) Contextual,(Y01) Case-based
+28472,6,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28472,7,(Y01) Case-based,(Y01) Case-based
+28473,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28473,4,(Y01) Case-based,(Y07) Analogy,(Y01) Case-based
+28473,6,(Y01) Case-based,(Y02) Contextual,(Y01) Case-based
+28473,8,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28474,2,(Y03) Reasoning,(Y02) Contextual,(Y03) Reasoning
+28474,3,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28474,4,(Y03) Reasoning,(Y02) Contextual,(Y03) Reasoning
+28474,6,(Y01) Case-based,(Y02) Contextual,(Y01) Case-based
+28474,8,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28475,2,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28475,3,(Y01) Case-based,(Y07) Analogy,(Y01) Case-based
+28475,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28475,5,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28475,6,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28475,7,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28475,8,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28475,9,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28476,3,(Y01) Case-based
+28476,4,(Y01) Case-based,(Y01) Case-based
+28476,6,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28476,7,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28476,8,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28477,2,(Y02) Contextual
+28477,3,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28477,4,(Y03) Reasoning,(Y02) Contextual,(Y03) Reasoning
+28477,5,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28477,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28477,8,(Y01) Case-based,(Y01) Case-based
+28477,9,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28478,5,(Y03) Reasoning,(Y03) Reasoning
+28478,6,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28478,7,(Y02) Contextual,(Y02) Contextual
+28478,8,(Y02) Contextual,(Y02) Contextual
+28478,9,(Y02) Contextual,(Y02) Contextual
+28479,2,(Y01) Case-based
+28479,6,(Y02) Contextual,(Y02) Contextual
+28479,8,(Y01) Case-based,(Y02) Contextual,(Y01) Case-based
+28480,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28480,6,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28480,8,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28481,2,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28481,4,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28481,8,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28482,3,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28482,6,(Y03) Reasoning,(Y06) Other,(Y03) Reasoning
+28482,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28483,5,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28484,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28485,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28485,4,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28485,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28486,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28486,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28487,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28487,3,(Y02) Contextual
+28487,4,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28487,6,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28487,8,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28488,2,(Y07) Analogy,(Y07) Analogy
+28489,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28489,4,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28489,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28490,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28490,4,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28490,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28490,7,(Y03) Reasoning,(Y03) Reasoning
+28490,8,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28491,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28491,4,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28491,6,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28491,8,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28492,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28492,5,(Y03) Reasoning,(Y03) Reasoning,(Y03) Reasoning
+28492,6,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28493,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28493,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28493,5,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28493,6,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28493,8,(Y03) Reasoning,(Y03) Reasoning
+28494,4,(Y07) Analogy,(Y01) Case-based,(Y07) Analogy
+28495,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28495,4,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28495,6,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28496,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28496,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28496,7,(Y03) Reasoning,(Y02) Contextual,(Y03) Reasoning
+28496,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28497,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28497,4,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28497,8,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28498,2,(Y03) Reasoning,(Y01) Case-based,(Y03) Reasoning
+28498,3,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28498,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28498,6,(Y01) Case-based,(Y02) Contextual,(Y01) Case-based
+28499,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28499,4,(Y01) Case-based,(Y01) Case-based
+28499,5,(Y01) Case-based,(Y01) Case-based
+28500,2,(Y07) Analogy,(Y01) Case-based,(Y07) Analogy
+28500,4,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28500,6,(Y01) Case-based,(Y07) Analogy,(Y01) Case-based
+28500,8,(Y01) Case-based,(Y02) Contextual,(Y01) Case-based
+28501,2,(Y01) Case-based,(Y02) Contextual,(Y01) Case-based
+28501,5,(Y01) Case-based,(Y01) Case-based
+28501,6,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28501,8,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28502,2,(Y01) Case-based,(Y02) Contextual,(Y01) Case-based
+28502,3,(Y01) Case-based,(Y01) Case-based
+28502,5,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28502,6,(Y02) Contextual,(Y02) Contextual
+28502,8,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28503,2,(Y01) Case-based,(Y01) Case-based
+28503,4,(Y07) Analogy,(Y03) Reasoning,(Y07) Analogy
+28503,6,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28504,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28504,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28504,6,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28506,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28506,3,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28506,4,(Y03) Reasoning,(Y03) Reasoning
+28506,5,(Y01) Case-based,(Y01) Case-based
+28506,6,(Y01) Case-based,(Y02) Contextual,(Y01) Case-based
+28506,7,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28506,8,(Y01) Case-based,(Y01) Case-based
+28507,3,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28507,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28507,6,(Y01) Case-based,(Y02) Contextual,(Y01) Case-based
+28507,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28508,3,(Y01) Case-based,(Y01) Case-based
+28508,4,(Y02) Contextual,(Y02) Contextual
+28508,6,(Y01) Case-based,(Y03) Reasoning,(Y03) Reasoning
+28508,7,(Y02) Contextual
+28509,2,(Y02) Contextual,(Y01) Case-based,(Y01) Case-based
+28509,4,(Y02) Contextual,(Y01) Case-based,(Y01) Case-based
+28509,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28509,8,(Y01) Case-based,(Y02) Contextual,(Y02) Contextual
+28510,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28510,6,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28510,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28511,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28511,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28511,6,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28511,8,(Y01) Case-based,(Y07) Analogy,(Y01) Case-based
+28512,2,(Y02) Contextual
+28512,5,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28513,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28513,4,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28513,6,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28513,8,(Y07) Analogy,(Y07) Analogy
+28514,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28514,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28514,5,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28514,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28514,7,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28514,8,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28515,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28515,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28515,6,(Y02) Contextual,(Y02) Contextual
+28515,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28516,2,(Y01) Case-based,(Y02) Contextual,(Y01) Case-based
+28516,4,(Y03) Reasoning,(Y02) Contextual,(Y03) Reasoning
+28516,6,(Y01) Case-based,(Y02) Contextual,(Y01) Case-based
+28517,4,(Y01) Case-based,(Y01) Case-based
+28518,2,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28518,4,(Y03) Reasoning,(Y03) Reasoning
+28518,6,(Y02) Contextual,(Y02) Contextual
+28518,8,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28519,2,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28519,4,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28519,6,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28519,8,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28520,6,(Y02) Contextual,(Y02) Contextual
+28520,8,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28521,6,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28521,8,(Y01) Case-based,(Y02) Contextual,(Y01) Case-based
+28522,2,(Y03) Reasoning,(Y01) Case-based,(Y03) Reasoning
+28522,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28524,3,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28524,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28525,2,(Y05) Contrastive,(Y02) Contextual,(Y05) Contrastive
+28525,6,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28526,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28526,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28526,6,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28526,8,(Y02) Contextual,(Y02) Contextual
+28527,3,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28527,4,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28527,5,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28527,6,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28527,8,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28528,2,(Y01) Case-based,(Y07) Analogy,(Y01) Case-based
+28528,4,(Y02) Contextual,(Y02) Contextual
+28528,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28529,3,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28529,4,(Y03) Reasoning,(Y02) Contextual,(Y03) Reasoning
+28529,5,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28529,6,(Y02) Contextual,(Y02) Contextual
+28529,7,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28531,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28531,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28531,6,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28532,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28532,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28532,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28532,8,(Y01) Case-based,(Y07) Analogy,(Y01) Case-based
+28533,2,(Y01) Case-based,(Y01) Case-based
+28533,3,(Y01) Case-based,(Y01) Case-based
+28533,4,(Y01) Case-based,(Y01) Case-based
+28533,6,(Y02) Contextual,(Y02) Contextual
+28533,8,(Y02) Contextual,(Y02) Contextual
+28534,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28534,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28534,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28534,8,(Y01) Case-based,(Y07) Analogy,(Y01) Case-based
+28536,2,(Y02) Contextual,(Y02) Contextual
+28536,3,(Y01) Case-based,(Y01) Case-based
+28536,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28536,5,(Y07) Analogy,(Y07) Analogy
+28536,6,(Y02) Contextual,(Y02) Contextual
+28536,8,(Y02) Contextual,(Y02) Contextual
+28537,2,(Y07) Analogy,(Y07) Analogy
+28537,3,(Y07) Analogy
+28537,4,(Y01) Case-based,(Y07) Analogy,(Y01) Case-based
+28537,5,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28537,6,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28537,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28538,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28538,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28538,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28538,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28539,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28539,3,(Y01) Case-based,(Y02) Contextual,(Y01) Case-based
+28539,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28539,8,(Y02) Contextual,(Y02) Contextual
+28540,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28541,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28541,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28541,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28542,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28542,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28542,6,(Y02) Contextual,(Y02) Contextual
+28543,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28543,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28543,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28544,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28544,6,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28544,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28545,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28545,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28545,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28545,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28546,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28546,3,(Y01) Case-based,(Y02) Contextual,(Y01) Case-based
+28546,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28546,5,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28546,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28546,7,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28546,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28547,2,(Y01) Case-based,(Y02) Contextual,(Y01) Case-based
+28547,4,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28547,6,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28547,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28548,2,(Y02) Contextual,(Y02) Contextual
+28549,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28549,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28549,6,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28549,8,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28550,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28552,2,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28553,2,(Y07) Analogy,(Y07) Analogy
+28553,4,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28553,6,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28553,8,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28554,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28554,4,(Y01) Case-based,(Y02) Contextual,(Y01) Case-based
+28554,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28554,7,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28554,8,(Y03) Reasoning,(Y02) Contextual,(Y03) Reasoning
+28555,4,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28555,5,(Y07) Analogy,(Y01) Case-based,(Y07) Analogy
+28555,6,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28556,3,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28557,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28557,3,(Y07) Analogy
+28557,4,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28557,8,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28559,2,(Y02) Contextual,(Y02) Contextual
+28559,3,(Y03) Reasoning,(Y02) Contextual,(Y03) Reasoning
+28559,5,(Y03) Reasoning,(Y02) Contextual,(Y03) Reasoning
+28559,8,(Y03) Reasoning,(Y01) Case-based,(Y03) Reasoning
+28560,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28560,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28560,6,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28561,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28561,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28561,6,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28561,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28562,4,(Y03) Reasoning
+28563,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28563,4,(Y05) Contrastive,(Y02) Contextual,(Y05) Contrastive
+28564,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28564,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28564,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28564,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28565,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28565,3,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28565,4,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28565,5,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28565,7,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28565,8,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28566,2,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28566,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28566,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28566,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28567,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28567,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28568,2,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28568,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28568,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28569,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28569,4,(Y01) Case-based,(Y07) Analogy,(Y01) Case-based
+28570,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28570,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28570,5,(Y01) Case-based
+28571,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28571,3,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28571,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28571,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28571,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28572,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28572,4,(Y02) Contextual,(Y02) Contextual
+28572,5,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28572,8,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28573,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28574,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28574,5,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28574,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28574,8,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28575,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28575,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28575,5,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28575,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28575,7,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28576,2,(Y02) Contextual,(Y07) Analogy,(Y02) Contextual
+28576,4,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28576,6,(Y01) Case-based,(Y01) Case-based
+28577,2,(Y02) Contextual,(Y07) Analogy,(Y02) Contextual
+28577,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28577,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28578,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28578,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28578,6,(Y03) Reasoning,(Y02) Contextual,(Y03) Reasoning
+28578,7,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28579,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28579,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28579,6,(Y02) Contextual,(Y07) Analogy,(Y02) Contextual
+28580,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28582,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28582,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28583,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28583,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28583,6,(Y03) Reasoning,(Y01) Case-based,(Y03) Reasoning
+28584,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28584,5,(Y02) Contextual,(Y02) Contextual
+28584,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28585,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28585,4,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28585,6,(Y02) Contextual,(Y02) Contextual
+28586,6,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28587,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28587,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28587,6,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28587,7,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28588,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28588,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28590,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28590,3,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28590,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28590,6,(Y02) Contextual,(Y02) Contextual
+28591,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28591,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28591,5,(Y01) Case-based
+28591,6,(Y01) Case-based,(Y02) Contextual,(Y01) Case-based
+28592,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28592,6,(Y01) Case-based,(Y02) Contextual,(Y01) Case-based
+28593,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28593,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28593,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28594,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28594,4,(Y07) Analogy,(Y01) Case-based,(Y07) Analogy
+28594,6,(Y07) Analogy,(Y07) Analogy
+28595,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28595,3,(Y03) Reasoning,(Y01) Case-based,(Y03) Reasoning
+28595,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28596,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28597,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28597,4,(Y01) Case-based,(Y02) Contextual,(Y01) Case-based
+28597,7,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28598,2,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28598,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28599,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28599,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28599,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28600,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28600,4,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28600,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28601,4,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28602,2,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28602,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28602,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28603,6,(Y02) Contextual,(Y02) Contextual
+28603,7,(Y02) Contextual,(Y02) Contextual
+28604,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28604,4,(Y01) Case-based,(Y02) Contextual,(Y01) Case-based
+28605,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28605,4,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28606,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28606,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28607,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28607,4,(Y02) Contextual,(Y02) Contextual
+28607,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28607,7,(Y07) Analogy,(Y07) Analogy
+28608,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28608,4,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28609,2,(Y01) Case-based,(Y02) Contextual,(Y01) Case-based
+28609,3,(Y01) Case-based,(Y02) Contextual,(Y01) Case-based
+28609,4,(Y05) Contrastive,(Y05) Contrastive,(Y05) Contrastive
+28609,6,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28610,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28610,4,(Y02) Contextual,(Y02) Contextual
+28610,6,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28611,4,(Y07) Analogy,(Y07) Analogy
+28612,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28612,3,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28612,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28612,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28612,7,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28613,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28613,6,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28614,2,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28614,4,(Y02) Contextual,(Y02) Contextual
+28615,2,(Y02) Contextual,(Y02) Contextual
+28615,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28615,5,(Y02) Contextual,(Y02) Contextual
+28617,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28617,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28618,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28618,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28618,6,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28618,7,(Y01) Case-based,(Y02) Contextual,(Y01) Case-based
+28619,2,(Y05) Contrastive,(Y01) Case-based,(Y05) Contrastive
+28620,6,(Y02) Contextual,(Y02) Contextual
+28621,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28621,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28622,3,(Y02) Contextual,(Y02) Contextual
+28623,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28623,6,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28624,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28625,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28625,3,(Y02) Contextual,(Y02) Contextual
+28625,4,(Y02) Contextual,(Y02) Contextual
+28626,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28626,4,(Y02) Contextual,(Y02) Contextual
+28626,6,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28626,7,(Y03) Reasoning,(Y02) Contextual,(Y03) Reasoning
+28627,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28627,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28627,6,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28628,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28628,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28629,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28629,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28629,6,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28630,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28630,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28630,6,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28630,7,(Y01) Case-based,(Y02) Contextual,(Y01) Case-based
+28631,5,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28633,3,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28634,2,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28634,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28634,6,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28635,2,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28635,4,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28636,4,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28636,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28637,2,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28637,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28637,6,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28638,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28638,4,(Y02) Contextual,(Y02) Contextual
+28638,6,(Y02) Contextual,(Y02) Contextual
+28639,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28639,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28639,6,(Y01) Case-based,(Y02) Contextual,(Y01) Case-based
+28639,7,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28640,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28640,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28640,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28641,2,(Y02) Contextual,(Y02) Contextual
+28642,3,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28642,5,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28643,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28643,4,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28643,6,(Y01) Case-based,(Y01) Case-based
+28644,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28644,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28644,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28645,3,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28646,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28646,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28646,5,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28646,6,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28647,2,(Y02) Contextual,(Y02) Contextual
+28647,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28647,5,(Y01) Case-based,(Y01) Case-based
+28647,7,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28648,2,(Y01) Case-based,(Y01) Case-based
+28648,3,(Y01) Case-based,(Y01) Case-based
+28648,4,(Y01) Case-based,(Y01) Case-based
+28650,2,(Y07) Analogy,(Y07) Analogy
+28650,4,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28650,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28651,2,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28651,4,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28651,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28652,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28652,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28652,6,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28652,7,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28653,3,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28653,4,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28654,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28655,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28655,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28657,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28657,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28657,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28658,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28658,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28659,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28659,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28660,2,(Y03) Reasoning,(Y03) Reasoning,(Y03) Reasoning
+28660,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28660,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28661,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28661,3,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28661,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28661,6,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28662,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28662,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28663,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28663,4,(Y01) Case-based,(Y01) Case-based,(Y02) Contextual
+28663,6,(Y01) Case-based,(Y01) Case-based,(Y02) Contextual
+28663,7,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28664,2,(Y02) Contextual,(Y02) Contextual
+28664,5,(Y03) Reasoning,(Y03) Reasoning,(Y01) Case-based
+28665,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28665,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28665,6,(Y03) Reasoning,(Y03) Reasoning,(Y03) Reasoning
+28666,2,(Y02) Contextual,(Y02) Contextual
+28666,3,(Y07) Analogy,(Y07) Analogy,(Y01) Case-based
+28666,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28666,6,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28667,2,(Y03) Reasoning,(Y03) Reasoning,(Y01) Case-based
+28668,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28668,3,(Y03) Reasoning,(Y03) Reasoning,(Y07) Analogy
+28668,4,(Y07) Analogy,(Y07) Analogy,(Y02) Contextual
+28668,5,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28668,6,(Y07) Analogy,(Y07) Analogy,(Y02) Contextual
+28668,7,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28669,2,(Y02) Contextual,(Y02) Contextual
+28669,4,(Y02) Contextual,(Y02) Contextual
+28669,5,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28670,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28670,3,(Y03) Reasoning,(Y03) Reasoning
+28670,4,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28670,6,(Y07) Analogy,(Y07) Analogy,(Y01) Case-based
+28670,7,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28671,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28671,4,(Y07) Analogy,(Y07) Analogy,(Y02) Contextual
+28671,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28672,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28672,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28672,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28673,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28673,4,(Y02) Contextual,(Y02) Contextual
+28674,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28674,4,(Y07) Analogy,(Y07) Analogy,(Y02) Contextual
+28676,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28676,5,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28677,3,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28677,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28677,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28677,7,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28678,2,(Y02) Contextual,(Y02) Contextual
+28678,4,(Y02) Contextual,(Y02) Contextual
+28678,6,(Y07) Analogy,(Y07) Analogy,(Y01) Case-based
+28679,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28679,3,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28679,4,(Y01) Case-based,(Y01) Case-based,(Y02) Contextual
+28680,2,(Y02) Contextual,(Y02) Contextual,(Y01) Case-based
+28680,3,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28681,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28681,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28681,5,(Y02) Contextual,(Y02) Contextual
+28682,2,(Y07) Analogy,(Y07) Analogy
+28682,4,(Y07) Analogy,(Y07) Analogy,(Y02) Contextual
+28683,2,(Y07) Analogy,(Y07) Analogy,(Y01) Case-based
+28683,3,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28683,4,(Y07) Analogy,(Y07) Analogy,(Y02) Contextual
+28684,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28684,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28685,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28685,4,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28685,6,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28685,7,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28686,2,(Y07) Analogy,(Y07) Analogy
+28686,4,(Y02) Contextual,(Y02) Contextual,(Y01) Case-based
+28686,6,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28686,7,(Y01) Case-based,(Y01) Case-based
+28687,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28687,3,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28687,4,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28687,5,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28687,6,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28687,7,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28688,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28688,4,(Y02) Contextual
+28688,6,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28689,4,(Y02) Contextual,(Y02) Contextual,(Y01) Case-based
+28689,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28690,3,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28690,5,(Y02) Contextual,(Y02) Contextual
+28691,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28691,3,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28691,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28693,2,(Y02) Contextual,(Y02) Contextual
+28693,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28693,6,(Y02) Contextual,(Y02) Contextual
+28694,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28694,3,(Y07) Analogy,(Y02) Contextual,(Y02) Contextual
+28694,4,(Y02) Contextual,(Y02) Contextual
+28694,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28695,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28696,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28696,4,(Y07) Analogy,(Y02) Contextual,(Y02) Contextual
+28696,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28697,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28697,4,(Y02) Contextual,(Y02) Contextual,(Y01) Case-based
+28697,6,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28698,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28698,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28699,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28699,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28699,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28700,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28700,4,(Y02) Contextual,(Y01) Case-based,(Y02) Contextual
+28701,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28701,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28703,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28704,2,(Y07) Analogy,(Y07) Analogy,(Y01) Case-based
+28704,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28705,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28705,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28706,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28706,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28706,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28707,4,(Y02) Contextual,(Y02) Contextual,(Y01) Case-based
+28707,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28708,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28708,3,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28708,4,(Y01) Case-based,(Y02) Contextual,(Y01) Case-based
+28709,2,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28709,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28709,5,(Y02) Contextual,(Y02) Contextual
+28710,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28710,4,(Y02) Contextual,(Y02) Contextual
+28711,4,(Y02) Contextual,(Y02) Contextual
+28712,2,(Y02) Contextual,(Y02) Contextual
+28713,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28713,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28713,6,(Y02) Contextual,(Y07) Analogy,(Y02) Contextual
+28714,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28714,3,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28715,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28715,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28716,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28716,3,(Y01) Case-based,(Y02) Contextual,(Y01) Case-based
+28717,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28717,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28718,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28718,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28718,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28719,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28719,4,(Y01) Case-based
+28720,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28720,3,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28720,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28720,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28721,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28721,4,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28721,6,(Y02) Contextual,(Y07) Analogy,(Y02) Contextual
+28722,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28722,4,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28722,6,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28723,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28723,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28724,2,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28724,3,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28724,4,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28724,5,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28725,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28725,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28726,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28726,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28727,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28727,3,(Y07) Analogy,(Y01) Case-based,(Y07) Analogy
+28727,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28728,5,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28731,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28731,4,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28731,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28732,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28733,2,(Y02) Contextual,(Y02) Contextual
+28733,6,(Y02) Contextual,(Y02) Contextual
+28734,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28734,3,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28734,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28735,2,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28735,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28735,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28736,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28736,3,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28736,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28736,5,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28736,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28737,2,(Y02) Contextual,(Y02) Contextual
+28737,3,(Y02) Contextual,(Y02) Contextual
+28737,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28737,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28738,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28738,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28738,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28739,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28740,2,(Y02) Contextual,(Y02) Contextual
+28740,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28740,5,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28740,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28741,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28741,3,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28741,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28741,5,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28742,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28742,6,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28743,2,(Y02) Contextual,(Y02) Contextual
+28744,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28745,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28745,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28746,2,(Y01) Case-based,(Y02) Contextual,(Y01) Case-based
+28746,4,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28746,6,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28747,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28747,3,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28747,4,(Y02) Contextual,(Y02) Contextual
+28747,5,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28747,6,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28748,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28748,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28748,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28749,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28749,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28750,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28750,4,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28750,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28751,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28753,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28753,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28753,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28755,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28755,4,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28755,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28756,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28757,2,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28757,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28757,5,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28757,6,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28758,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28759,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28759,4,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28759,6,(Y07) Analogy,(Y02) Contextual,(Y07) Analogy
+28760,2,(Y03) Reasoning,(Y02) Contextual,(Y03) Reasoning
+28760,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28760,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28761,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28761,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28761,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28762,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28762,5,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28763,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28763,4,(Y07) Analogy,(Y01) Case-based,(Y07) Analogy
+28763,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28764,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28765,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28765,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28765,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28766,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28766,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28766,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28767,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28767,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28767,6,(Y03) Reasoning,(Y02) Contextual,(Y03) Reasoning
+28768,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28769,2,(Y07) Analogy,(Y01) Case-based,(Y07) Analogy
+28769,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28770,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28770,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28771,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28771,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28771,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28772,6,(Y01) Case-based,(Y01) Case-based
+28773,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28773,4,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28773,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28774,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28774,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28774,5,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28774,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28776,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28776,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28777,2,(Y02) Contextual,(Y02) Contextual,(Y01) Case-based
+28778,2,(Y07) Analogy,(Y07) Analogy,(Y02) Contextual
+28778,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28778,5,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28779,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28779,4,(Y02) Contextual,(Y02) Contextual
+28780,2,(Y07) Analogy,(Y07) Analogy,(Y02) Contextual
+28780,3,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28780,4,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28781,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28782,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28782,4,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28782,6,(Y02) Contextual,(Y02) Contextual,(Y01) Case-based
+28783,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28783,3,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28783,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28783,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28784,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28784,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28785,2,(Y07) Analogy,(Y07) Analogy,(Y02) Contextual
+28785,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28786,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28786,5,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28786,6,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28787,2,(Y02) Contextual,(Y02) Contextual,(Y07) Analogy
+28787,5,(Y01) Case-based,(Y01) Case-based
+28787,6,(Y02) Contextual,(Y02) Contextual
+28788,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28789,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28789,3,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28789,5,(Y02) Contextual,(Y02) Contextual
+28789,6,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28790,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28791,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28793,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28793,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28793,5,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28793,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28794,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28794,4,(Y02) Contextual,(Y02) Contextual
+28795,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28795,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28796,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28796,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28797,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28797,3,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28797,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28799,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28799,5,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28799,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28800,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28800,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28801,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28801,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28801,5,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28801,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28803,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28803,3,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28804,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28804,4,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28805,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28806,2,(Y07) Analogy,(Y07) Analogy,(Y02) Contextual
+28806,4,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28807,2,(Y07) Analogy,(Y07) Analogy,(Y02) Contextual
+28807,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28807,6,(Y03) Reasoning,(Y03) Reasoning,(Y02) Contextual
+28808,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28808,3,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28808,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28808,5,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28808,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28809,2,(Y02) Contextual,(Y02) Contextual
+28809,4,(Y02) Contextual,(Y02) Contextual
+28809,6,(Y02) Contextual,(Y02) Contextual
+28811,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28811,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28812,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28812,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28812,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28813,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28814,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28814,4,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28815,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28815,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28815,6,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28816,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28816,4,(Y02) Contextual,(Y02) Contextual
+28818,2,(Y02) Contextual,(Y02) Contextual
+28819,2,(Y03) Reasoning,(Y01) Case-based,(Y03) Reasoning
+28819,5,(Y07) Analogy,(Y01) Case-based,(Y07) Analogy
+28821,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28823,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28823,3,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28825,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28826,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28828,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28828,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28828,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28829,2,(Y02) Contextual,(Y02) Contextual,(Y01) Case-based
+28829,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28829,5,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28830,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28830,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28831,2,(Y01) Case-based,(Y01) Case-based,(Y02) Contextual
+28831,4,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28831,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28832,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28833,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28833,3,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28833,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28833,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28834,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28834,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28834,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28835,2,(Y07) Analogy,(Y07) Analogy,(Y02) Contextual
+28836,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28836,3,(Y02) Contextual,(Y02) Contextual,(Y01) Case-based
+28836,4,(Y02) Contextual,(Y02) Contextual,(Y01) Case-based
+28837,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28837,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28837,6,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28838,6,(Y02) Contextual,(Y02) Contextual
+28839,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28839,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28839,5,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28840,2,(Y02) Contextual,(Y02) Contextual,(Y01) Case-based
+28840,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28840,5,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28840,6,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28841,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28841,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28841,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28842,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28842,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28842,5,(Y02) Contextual
+28842,6,(Y02) Contextual,(Y02) Contextual,(Y01) Case-based
+28843,3,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28843,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28843,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28844,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28844,3,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28844,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28844,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28845,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28845,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28845,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28846,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28846,4,(Y07) Analogy,(Y07) Analogy,(Y02) Contextual
+28846,6,(Y02) Contextual
+28847,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28847,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28847,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28848,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28848,3,(Y02) Contextual,(Y02) Contextual
+28848,5,(Y02) Contextual,(Y02) Contextual
+28849,3,(Y02) Contextual,(Y02) Contextual
+28850,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28850,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28851,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28851,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28851,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28852,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28852,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28852,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28853,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28853,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28853,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28854,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28854,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28855,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28855,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28855,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28856,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28856,4,(Y02) Contextual,(Y02) Contextual
+28856,6,(Y02) Contextual,(Y02) Contextual
+28857,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28857,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28858,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28858,5,(Y02) Contextual,(Y02) Contextual
+28859,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28859,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28860,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28860,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28860,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28861,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28861,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28861,6,(Y02) Contextual,(Y02) Contextual
+28862,3,(Y02) Contextual
+28862,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28863,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28863,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28864,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28864,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28864,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28865,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28865,3,(Y07) Analogy
+28865,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28865,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28866,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28866,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28867,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28867,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28868,3,(Y02) Contextual,(Y02) Contextual
+28868,6,(Y02) Contextual,(Y02) Contextual
+28869,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28869,3,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28870,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28871,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28872,2,(Y02) Contextual,(Y02) Contextual
+28873,2,(Y02) Contextual,(Y02) Contextual
+28874,2,(Y02) Contextual,(Y02) Contextual,(Y01) Case-based
+28874,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28874,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28875,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28875,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28875,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28876,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28876,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28877,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28877,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28877,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28880,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28880,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28880,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28881,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28881,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28881,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28882,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28882,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28882,6,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28883,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28883,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28884,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28884,3,(Y02) Contextual,(Y02) Contextual,(Y01) Case-based
+28884,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28884,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28886,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28886,6,(Y03) Reasoning,(Y03) Reasoning,(Y03) Reasoning
+28887,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28887,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28888,6,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28889,2,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28889,3,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28890,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28890,4,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28890,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28891,2,(Y02) Contextual,(Y02) Contextual,(Y01) Case-based
+28891,4,(Y05) Contrastive,(Y05) Contrastive,(Y01) Case-based
+28891,6,(Y02) Contextual
+28892,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28892,4,(Y02) Contextual,(Y02) Contextual,(Y01) Case-based
+28892,6,(Y02) Contextual,(Y02) Contextual,(Y01) Case-based
+28893,2,(Y02) Contextual,(Y02) Contextual
+28893,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28893,6,(Y02) Contextual
+28895,4,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28896,6,(Y02) Contextual,(Y02) Contextual,(Y07) Analogy
+28897,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28897,6,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28898,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28898,4,(Y07) Analogy,(Y07) Analogy
+28898,5,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28899,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28899,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28899,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28900,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28900,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28901,2,(Y07) Analogy,(Y07) Analogy,(Y07) Analogy
+28901,4,(Y02) Contextual,(Y02) Contextual
+28901,6,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28902,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28902,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28903,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28904,2,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28904,3,(Y07) Analogy
+28904,4,(Y02) Contextual,(Y02) Contextual,(Y02) Contextual
+28904,6,(Y01) Case-based,(Y01) Case-based,(Y01) Case-based
+28905,2,(Y02) Contextual,(Y02) Contextual
+28905,5,(Y02) Contextual

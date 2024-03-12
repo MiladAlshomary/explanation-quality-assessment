@@ -1,0 +1,16 @@
+Hello Rouven,
+
+As part of my TRR-318 project we are going to run the following user study and we need a persmission to book the money and use it.
+
+
+- Study description: Under the TRR-318 explainability project, we are studying the quality of explanation dialogs. As part of our research, we need to annotate explanation dialogs with certain infromation that help us understand how humans explain things. Usually this is done through a crowd-sourcing study in which three to five annotators are hired to perfrom the task to later obtain reliable annotations. In our case, we collect a set of threads from the "Explain Like I am Five" Subreddit (https://www.reddit.com/r/explainlikeimfive/), and we would like to annotate these threads by three annotators. The annotators will be recruited through the upwork (https://www.upwork.com/) plateform, a plateform that we used before in our studies and it is reliable plateform and easy to use.
+
+- Cost estimation:
+	
+	- The number of threads are 200 with an average of 8 turns per thread.
+
+	- Estimated 5-10 min per dialog → Total time each annotator would need (5-10) x 200=17 to 33 hours
+	
+	- We pay annotators 13$ per hour → The cost of one annotator is between 220$ to 440$
+	
+	- Hiring 3 annotators would cost a total of 660$ and 1400$
